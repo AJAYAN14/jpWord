@@ -197,6 +197,17 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def generate_report_path(target: Path) -> Path:
+    """生成固定格式的报告文件路径。"""
+    if target.is_file():
+        # 单文件: word_n2_part13.json -> report_n2_part13.json
+        filename = target.stem.replace("word_", "report_") + ".json"
+    else:
+        # 目录: 使用目录名
+        filename = f"report_{target.name}.json"
+    return target.parent / filename
+
+
 def main() -> None:
     args = parse_args()
     target = Path(args.target)
@@ -215,17 +226,21 @@ def main() -> None:
     else:
         print_multi_result(results, target)
 
+    # 确定输出路径：使用指定的路径，或自动生成固定格式路径
     if args.output:
         out_path = Path(args.output)
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        payload = {
-            "target": str(target),
-            "total_files": len(results),
-            "total_errors": sum(len(r.get("errors", [])) for r in results if not r.get("error")),
-            "results": results,
-        }
-        out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"报告已写入: {out_path}")
+    else:
+        out_path = generate_report_path(target)
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "target": str(target),
+        "total_files": len(results),
+        "total_errors": sum(len(r.get("errors", [])) for r in results if not r.get("error")),
+        "results": results,
+    }
+    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"报告已写入: {out_path}")
 
 
 if __name__ == "__main__":
