@@ -2,11 +2,11 @@
         {
                 "id": "N1_2101",
                 "level": "N1",
-                "expression": "コンマ",
+                "expression": "comma",
                 "kana": "コンマ",
                 "tone": "①",
-                "pos": "名詞",
-                "meaning": "逗号；小数点",
+                "pos": "名",
+                "meaning": "逗号;小数点",
                 "examples": [
                         {
                                 "ja": "コンマを打[う]つ。",
@@ -27,8 +27,8 @@
                 "level": "N1",
                 "expression": "困惑",
                 "kana": "こんわく",
-                "tone": "⓪",
-                "pos": "名詞・自動詞",
+                "tone": "[0]",
+                "pos": "名*自動3",
                 "meaning": "困惑，不知所措",
                 "examples": [
                         {
@@ -48,10 +48,10 @@
         {
                 "id": "N1_2103",
                 "level": "N1",
-                "expression": "サーフィン",
+                "expression": "surfing",
                 "kana": "サーフィン",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "冲浪",
                 "examples": [
                         {
@@ -74,7 +74,7 @@
                 "expression": "財",
                 "kana": "ざい",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "财富",
                 "examples": [
                         {
@@ -96,8 +96,8 @@
                 "level": "N1",
                 "expression": "最悪",
                 "kana": "さいあく",
-                "tone": "⓪",
-                "pos": "名詞・な形容詞",
+                "tone": "[0]",
+                "pos": "名*ナ形",
                 "meaning": "最坏，最糟",
                 "examples": [
                         {
@@ -119,8 +119,8 @@
                 "level": "N1",
                 "expression": "細工",
                 "kana": "さいく",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "工艺，工艺品",
                 "examples": [
                         {
@@ -140,10 +140,10 @@
         {
                 "id": "N1_2107",
                 "level": "N1",
-                "expression": "サイクル",
+                "expression": "cycle",
                 "kana": "サイクル",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "周期，循环",
                 "examples": [
                         {
@@ -166,7 +166,7 @@
                 "expression": "最期",
                 "kana": "さいご",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "临终，临死",
                 "examples": [
                         {
@@ -189,7 +189,7 @@
                 "expression": "最盛期",
                 "kana": "さいせいき",
                 "tone": "③",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "最繁荣的时期",
                 "examples": [
                         {
@@ -211,9 +211,9 @@
                 "level": "N1",
                 "expression": "最善",
                 "kana": "さいぜん",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "最好；全力",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "最好;全力",
                 "examples": [
                         {
                                 "ja": "最善[さいぜん]を尽[つ]くす。",
@@ -234,8 +234,8 @@
                 "level": "N1",
                 "expression": "採択",
                 "kana": "さいたく",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "采纳，通过",
                 "examples": [
                         {
@@ -255,10 +255,10 @@
         {
                 "id": "N1_2112",
                 "level": "N1",
-                "expression": "サイト",
+                "expression": "site",
                 "kana": "サイト",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "网站",
                 "examples": [
                         {
@@ -281,8 +281,8 @@
                 "expression": "冴える",
                 "kana": "さえる",
                 "tone": "②",
-                "pos": "自動詞",
-                "meaning": "鲜明、清晰；清醒；高超",
+                "pos": "自動2",
+                "meaning": "鲜明、清晰；清醒;高超",
                 "examples": [
                         {
                                 "ja": "目[め]が冴[さ]えて眠[ねむ]れない。",
@@ -304,7 +304,7 @@
                 "expression": "栄える",
                 "kana": "さかえる",
                 "tone": "③②",
-                "pos": "自動詞",
+                "pos": "自動2",
                 "meaning": "繁荣，兴旺",
                 "examples": [
                         {
@@ -326,8 +326,8 @@
                 "level": "N1",
                 "expression": "差額",
                 "kana": "さがく",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "差额",
                 "examples": [
                         {
@@ -349,8 +349,8 @@
                 "level": "N1",
                 "expression": "杯",
                 "kana": "さかずき",
-                "tone": "⓪④",
-                "pos": "名詞",
+                "tone": "[0]④",
+                "pos": "名",
                 "meaning": "酒杯",
                 "examples": [
                         {
@@ -372,8 +372,8 @@
                 "level": "N1",
                 "expression": "先送り",
                 "kana": "さきおくり",
-                "tone": "⓪③",
-                "pos": "名詞・他動詞",
+                "tone": "[0]③",
+                "pos": "名*他動3",
                 "meaning": "拖延，延缓",
                 "examples": [
                         {
@@ -396,8 +396,8 @@
                 "expression": "～作",
                 "kana": "～さく",
                 "tone": "",
-                "pos": "接尾辞",
-                "meaning": "……作品；种植",
+                "pos": "接尾",
+                "meaning": "……作品;种植",
                 "examples": [
                         {
                                 "ja": "失敗[しっぱい]作[さく]。",
@@ -418,9 +418,9 @@
                 "level": "N1",
                 "expression": "差し入れ",
                 "kana": "さしいれ",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "插人，投入；（送）慰劳品",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "插人，投入；(送）慰劳品",
                 "examples": [
                         {
                                 "ja": "郵便物[ゆうびんぶつ]差[さ]し入[い]れ口[ぐち]。",
@@ -442,7 +442,7 @@
                 "expression": "指図",
                 "kana": "さしず",
                 "tone": "①",
-                "pos": "名詞・他動詞",
+                "pos": "名*他動3",
                 "meaning": "指示，吩咐",
                 "examples": [
                         {
@@ -464,9 +464,9 @@
                 "level": "N1",
                 "expression": "差し引き",
                 "kana": "さしひき",
-                "tone": "②⓪",
-                "pos": "名詞・自他動詞",
-                "meaning": "减去，扣除；升降",
+                "tone": "②[0]",
+                "pos": "名*自他動3",
+                "meaning": "减去，扣除;升降",
                 "examples": [
                         {
                                 "ja": "前払[まえはら]った分[ぶん]を差[さ]し引[ひ]きする。",
@@ -487,8 +487,8 @@
                 "level": "N1",
                 "expression": "差し支える",
                 "kana": "さしつかえる",
-                "tone": "⑤⓪",
-                "pos": "自動詞",
+                "tone": "⑤[0]",
+                "pos": "自動2",
                 "meaning": "妨碍",
                 "examples": [
                         {
@@ -510,8 +510,8 @@
                 "level": "N1",
                 "expression": "査証",
                 "kana": "さしょう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "签证",
                 "examples": [
                         {
@@ -534,7 +534,7 @@
                 "expression": "授かる",
                 "kana": "さずかる",
                 "tone": "③",
-                "pos": "他動詞",
+                "pos": "他動1",
                 "meaning": "被授予，被賜予",
                 "examples": [
                         {
@@ -557,8 +557,8 @@
                 "expression": "授ける",
                 "kana": "さずける",
                 "tone": "③",
-                "pos": "他動詞",
-                "meaning": "授予，赐给；传授",
+                "pos": "他動2",
+                "meaning": "授予，赐给;传授",
                 "examples": [
                         {
                                 "ja": "学位[がくい]を授[さず]ける。",
@@ -579,8 +579,8 @@
                 "level": "N1",
                 "expression": "摩る",
                 "kana": "さする",
-                "tone": "⓪",
-                "pos": "他動詞",
+                "tone": "[0]",
+                "pos": "他動1",
                 "meaning": "摸，轻抚",
                 "examples": [
                         {
@@ -603,7 +603,7 @@
                 "expression": "定まる",
                 "kana": "さだまる",
                 "tone": "③",
-                "pos": "自動詞",
+                "pos": "自動1",
                 "meaning": "决定；安定，平息",
                 "examples": [
                         {
@@ -626,8 +626,8 @@
                 "expression": "定める",
                 "kana": "さだめる",
                 "tone": "③",
-                "pos": "他動詞",
-                "meaning": "制定；平息",
+                "pos": "他動2",
+                "meaning": "制定;平息",
                 "examples": [
                         {
                                 "ja": "目標[もくひょう]を定[さだ]める。",
@@ -648,9 +648,9 @@
                 "level": "N1",
                 "expression": "察する",
                 "kana": "さっする",
-                "tone": "⓪③",
-                "pos": "名詞・他動詞",
-                "meaning": "推测，体谅",
+                "tone": "[0]③",
+                "pos": "名*他動3",
+                "meaning": "推测,体谅",
                 "examples": [
                         {
                                 "ja": "胸中[きょうちゅう]を察[さっ]する。",
@@ -671,8 +671,8 @@
                 "level": "N1",
                 "expression": "殺到",
                 "kana": "さっとう",
-                "tone": "⓪",
-                "pos": "名詞・自動詞",
+                "tone": "[0]",
+                "pos": "名*自動3",
                 "meaning": "蜂拥而至",
                 "examples": [
                         {
@@ -695,8 +695,8 @@
                 "expression": "殺風景",
                 "kana": "さっぷうけい",
                 "tone": "③",
-                "pos": "名詞・な形容詞",
-                "meaning": "煞风景；缺乏风趣；扫兴",
+                "pos": "名.ナ形",
+                "meaning": "煞风景;缺乏风趣;扫兴",
                 "examples": [
                         {
                                 "ja": "殺風景[さっぷうけい]な話[はなし]。",
@@ -717,8 +717,8 @@
                 "level": "N1",
                 "expression": "査定",
                 "kana": "さてい",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "评估，评定",
                 "examples": [
                         {
@@ -741,7 +741,7 @@
                 "expression": "さては",
                 "kana": "さては",
                 "tone": "①",
-                "pos": "接続詞",
+                "pos": "接",
                 "meaning": "还有，最后还",
                 "examples": [
                         {
@@ -764,8 +764,8 @@
                 "expression": "さては",
                 "kana": "さては",
                 "tone": "①",
-                "pos": "感嘆詞",
-                "meaning": "（用于忽然发觉）原来是，看起来",
+                "pos": "嘆",
+                "meaning": "(用于忽然发觉）原来是，看起来",
                 "examples": [
                         {
                                 "ja": "さては冗談[じょうだん]だったのか。",
@@ -786,9 +786,9 @@
                 "level": "N1",
                 "expression": "諭す",
                 "kana": "さとす",
-                "tone": "②⓪",
-                "pos": "他動詞",
-                "meaning": "说明，晓谕；告诫",
+                "tone": "②[0]",
+                "pos": "他動1",
+                "meaning": "说明，晓谕;告诫",
                 "examples": [
                         {
                                 "ja": "二度[にど]と同[おな]じ過[あやま]ちを犯[おか]さないよう諭[さと]す。",
@@ -809,8 +809,8 @@
                 "level": "N1",
                 "expression": "悟る",
                 "kana": "さとる",
-                "tone": "⓪②",
-                "pos": "他動詞",
+                "tone": "[0]②",
+                "pos": "他動1",
                 "meaning": "醒悟，领悟；察觉",
                 "examples": [
                         {
@@ -832,8 +832,8 @@
                 "level": "N1",
                 "expression": "宛ら",
                 "kana": "さながら",
-                "tone": "⓪②",
-                "pos": "副詞",
+                "tone": "[0]②",
+                "pos": "副",
                 "meaning": "宛如，如同",
                 "examples": [
                         {
@@ -856,8 +856,8 @@
                 "expression": "裁く",
                 "kana": "さばく",
                 "tone": "②",
-                "pos": "他動詞",
-                "meaning": "审判；调解",
+                "pos": "他動1",
+                "meaning": "审判;调解",
                 "examples": [
                         {
                                 "ja": "トラブルを裁[さば]く。",
@@ -879,8 +879,8 @@
                 "expression": "捌く",
                 "kana": "さばく",
                 "tone": "②",
-                "pos": "他動詞",
-                "meaning": "剔下（鸡肉，鱼等）；妥善处理",
+                "pos": "他動1",
+                "meaning": "剔下(鸡肉，鱼等）；妥善处理",
                 "examples": [
                         {
                                 "ja": "仕事[しごと]をてきぱきと捌[さば]く。",
@@ -902,7 +902,7 @@
                 "expression": "茶飯事",
                 "kana": "さはんじ",
                 "tone": "②",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "司空见惯的事",
                 "examples": [
                         {
@@ -924,9 +924,9 @@
                 "level": "N1",
                 "expression": "さほど",
                 "kana": "さほど",
-                "tone": "⓪",
-                "pos": "副詞",
-                "meaning": "（不）那么，（不）怎么",
+                "tone": "[0]",
+                "pos": "副",
+                "meaning": "(不）那么，（不）怎么",
                 "examples": [
                         {
                                 "ja": "さほどひどい怪我[けが]でもない。",
@@ -948,7 +948,7 @@
                 "expression": "サボる",
                 "kana": "サボる",
                 "tone": "②",
-                "pos": "他動詞",
+                "pos": "他動1",
                 "meaning": "怠工，旷课，逃学",
                 "examples": [
                         {
@@ -971,7 +971,7 @@
                 "expression": "様変わり",
                 "kana": "さまがわり",
                 "tone": "③",
-                "pos": "名詞・自動詞",
+                "pos": "名*自動3",
                 "meaning": "情况发生变化；行情突变",
                 "examples": [
                         {
@@ -994,7 +994,7 @@
                 "expression": "さまよう",
                 "kana": "さまよう",
                 "tone": "③",
-                "pos": "自動詞",
+                "pos": "自動1",
                 "meaning": "彷徨，徘徊",
                 "examples": [
                         {
@@ -1017,8 +1017,8 @@
                 "expression": "さも",
                 "kana": "さも",
                 "tone": "①",
-                "pos": "副詞",
-                "meaning": "好像；非常",
+                "pos": "副",
+                "meaning": "好像;非常",
                 "examples": [
                         {
                                 "ja": "さも意味[いみ]ありげに笑[わら]う。",
@@ -1039,9 +1039,9 @@
                 "level": "N1",
                 "expression": "攫う",
                 "kana": "さらう",
-                "tone": "⓪",
-                "pos": "他動詞",
-                "meaning": "夺取，掠夺；取得",
+                "tone": "[0]",
+                "pos": "他動1",
+                "meaning": "夺取，掠夺;取得",
                 "examples": [
                         {
                                 "ja": "波[なみ]に攫[さら]われる。",
@@ -1062,8 +1062,8 @@
                 "level": "N1",
                 "expression": "浚う",
                 "kana": "さらう",
-                "tone": "⓪",
-                "pos": "他動詞",
+                "tone": "[0]",
+                "pos": "他動1",
                 "meaning": "疏浚，疏通",
                 "examples": [
                         {
@@ -1085,8 +1085,8 @@
                 "level": "N1",
                 "expression": "さらう",
                 "kana": "さらう",
-                "tone": "⓪",
-                "pos": "他動詞",
+                "tone": "[0]",
+                "pos": "他動1",
                 "meaning": "复习",
                 "examples": [
                         {
@@ -1108,8 +1108,8 @@
                 "level": "N1",
                 "expression": "サラ金",
                 "kana": "サラきん",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "小額高利贷",
                 "examples": [
                         {
@@ -1129,11 +1129,11 @@
         {
                 "id": "N1_2150",
                 "level": "N1",
-                "expression": "晒す",
+                "expression": "晒す/曝す",
                 "kana": "さらす",
-                "tone": "⓪",
-                "pos": "他動詞",
-                "meaning": "暴晒；暴露于",
+                "tone": "[0]",
+                "pos": "他動1",
+                "meaning": "暴晒;暴露于",
                 "examples": [
                         {
                                 "ja": "風雨[ふうう]に晒[さら]す。",
@@ -1155,7 +1155,7 @@
                 "expression": "更なる",
                 "kana": "さらなる",
                 "tone": "①",
-                "pos": "連体詞",
+                "pos": "連体",
                 "meaning": "进ー步，更加",
                 "examples": [
                         {
@@ -1177,9 +1177,9 @@
                 "level": "N1",
                 "expression": "障る",
                 "kana": "さわる",
-                "tone": "⓪",
-                "pos": "自動詞",
-                "meaning": "妨碍；危害",
+                "tone": "[0]",
+                "pos": "自動1",
+                "meaning": "妨碍;危害",
                 "examples": [
                         {
                                 "ja": "仕事[しごと]に障[さわ]る。",
@@ -1200,8 +1200,8 @@
                 "level": "N1",
                 "expression": "山岳",
                 "kana": "さんがく",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "山岳",
                 "examples": [
                         {
@@ -1223,8 +1223,8 @@
                 "level": "N1",
                 "expression": "産休",
                 "kana": "さんきゅう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "产假",
                 "examples": [
                         {
@@ -1247,8 +1247,8 @@
                 "expression": "残金",
                 "kana": "ざんきん",
                 "tone": "①",
-                "pos": "名詞",
-                "meaning": "余额；余下的欠款",
+                "pos": "名",
+                "meaning": "余额;余下的欠款",
                 "examples": [
                         {
                                 "ja": "残金[ざんきん]はこれが全部[ぜんぶ]です。",
@@ -1269,8 +1269,8 @@
                 "level": "N1",
                 "expression": "産出",
                 "kana": "さんしゅつ",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "出产",
                 "examples": [
                         {
@@ -1292,8 +1292,8 @@
                 "level": "N1",
                 "expression": "残高",
                 "kana": "ざんだか",
-                "tone": "①⓪",
-                "pos": "名詞",
+                "tone": "①[0]",
+                "pos": "名",
                 "meaning": "余额",
                 "examples": [
                         {
@@ -1315,8 +1315,8 @@
                 "level": "N1",
                 "expression": "桟橋",
                 "kana": "さんばし",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "码头，栈桥",
                 "examples": [
                         {
@@ -1339,7 +1339,7 @@
                 "expression": "～士",
                 "kana": "～し",
                 "tone": "",
-                "pos": "接尾辞",
+                "pos": "接尾",
                 "meaning": "具有特别资格的人，从亊特別工作的人",
                 "examples": [
                         {
@@ -1362,7 +1362,7 @@
                 "expression": "仕上げる",
                 "kana": "しあげる",
                 "tone": "③",
-                "pos": "他動詞",
+                "pos": "他動2",
                 "meaning": "完成，做完",
                 "examples": [
                         {
@@ -1382,10 +1382,10 @@
         {
                 "id": "N1_2161",
                 "level": "N1",
-                "expression": "シーエム",
+                "expression": "CM",
                 "kana": "シーエム",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "商业广告（多指电视广告）",
                 "examples": [
                         {
@@ -1405,10 +1405,10 @@
         {
                 "id": "N1_2162",
                 "level": "N1",
-                "expression": "シート",
+                "expression": "seat",
                 "kana": "シート",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "座位，席位",
                 "examples": [
                         {
@@ -1428,11 +1428,11 @@
         {
                 "id": "N1_2163",
                 "level": "N1",
-                "expression": "シェア",
+                "expression": "share",
                 "kana": "シェア",
                 "tone": "①",
-                "pos": "名詞",
-                "meaning": "市场占有率，份额；共享",
+                "pos": "名",
+                "meaning": "市场占有率,份额",
                 "examples": [
                         {
                                 "ja": "この商品[しょうひん]は市場[しじょう]の6割[わり]のシェアを持[も]っている。",
@@ -1454,7 +1454,7 @@
                 "expression": "ジェット機",
                 "kana": "ジェットき",
                 "tone": "③",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "喷气式飞机",
                 "examples": [
                         {
@@ -1476,8 +1476,8 @@
                 "level": "N1",
                 "expression": "萎れる",
                 "kana": "しおれる",
-                "tone": "⓪",
-                "pos": "自動詞",
+                "tone": "[0]",
+                "pos": "自動2",
                 "meaning": "植物枯蒌；灰心丧气，意志消沉",
                 "examples": [
                         {
@@ -1500,7 +1500,7 @@
                 "expression": "歯科",
                 "kana": "しか",
                 "tone": "①②",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "牙科",
                 "examples": [
                         {
@@ -1522,8 +1522,8 @@
                 "level": "N1",
                 "expression": "視界",
                 "kana": "しかい",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "视野",
                 "examples": [
                         {
@@ -1546,8 +1546,8 @@
                 "expression": "市街",
                 "kana": "しがい",
                 "tone": "①",
-                "pos": "名詞",
-                "meaning": "城镇，市区；繁华街道",
+                "pos": "名",
+                "meaning": "城镇，市区;繁华街道",
                 "examples": [
                         {
                                 "ja": "バスの市街[しがい]路線[ろせん]図[ず]。",
@@ -1568,9 +1568,9 @@
                 "level": "N1",
                 "expression": "仕返し",
                 "kana": "しかえし",
-                "tone": "⓪",
-                "pos": "名詞・自動詞",
-                "meaning": "报复；做",
+                "tone": "[0]",
+                "pos": "名*自動3",
+                "meaning": "报复;做",
                 "examples": [
                         {
                                 "ja": "殴[なぐ]られた仕返[しかえ]しをする。",
@@ -1591,9 +1591,9 @@
                 "level": "N1",
                 "expression": "自覚",
                 "kana": "じかく",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
-                "meaning": "自知；觉悟",
+                "tone": "[0]",
+                "pos": "名*他動3",
+                "meaning": "自知;觉悟",
                 "examples": [
                         {
                                 "ja": "社会人[しゃかいじん]としての自覚[じかく]がない。",
@@ -1614,9 +1614,9 @@
                 "level": "N1",
                 "expression": "仕掛け",
                 "kana": "しかけ",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "装置，机关；规模",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "装置，机关",
                 "examples": [
                         {
                                 "ja": "ゴキブリ駆除[くじょ]の仕掛[しか]けをこしらえる。",
@@ -1638,8 +1638,8 @@
                 "expression": "仕掛ける",
                 "kana": "しかける",
                 "tone": "③",
-                "pos": "他動詞",
-                "meaning": "挑动；安装",
+                "pos": "他動2",
+                "meaning": "挑动;安装",
                 "examples": [
                         {
                                 "ja": "爆弾[ばくだん]を仕掛[しか]ける。",
@@ -1661,7 +1661,7 @@
                 "expression": "しがみつく",
                 "kana": "しがみつく",
                 "tone": "④",
-                "pos": "自動詞",
+                "pos": "自動1",
                 "meaning": "紧紧抱住；抓住不放手",
                 "examples": [
                         {
@@ -1683,8 +1683,8 @@
                 "level": "N1",
                 "expression": "色彩",
                 "kana": "しきさい",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "色彩，性质，倾向",
                 "examples": [
                         {
@@ -1707,7 +1707,7 @@
                 "expression": "直訴",
                 "kana": "じきそ",
                 "tone": "①",
-                "pos": "名詞・他動詞",
+                "pos": "名*他動3",
                 "meaning": "直接上诉、上告",
                 "examples": [
                         {
@@ -1729,8 +1729,8 @@
                 "level": "N1",
                 "expression": "自給",
                 "kana": "じきゅう",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "自给，食其力",
                 "examples": [
                         {
@@ -1752,9 +1752,9 @@
                 "level": "N1",
                 "expression": "仕切り",
                 "kana": "しきり",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "隔开，间隔；结算",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "隔开，间隔",
                 "examples": [
                         {
                                 "ja": "仕切[しき]りを立[た]てる。",
@@ -1776,8 +1776,8 @@
                 "expression": "仕切る",
                 "kana": "しきる",
                 "tone": "②",
-                "pos": "他動詞",
-                "meaning": "隔开；掌管",
+                "pos": "他動1",
+                "meaning": "隔开;掌管",
                 "examples": [
                         {
                                 "ja": "店[みせ]は女将[おかみ]さんが仕切[しき]っている。",
@@ -1799,8 +1799,8 @@
                 "expression": "軸",
                 "kana": "じく",
                 "tone": "②",
-                "pos": "名詞",
-                "meaning": "轴，中心，主要",
+                "pos": "名",
+                "meaning": "袖，中心,主要",
                 "examples": [
                         {
                                 "ja": "チームの軸[じく]として活躍[かつやく]する。",
@@ -1821,9 +1821,9 @@
                 "level": "N1",
                 "expression": "次元",
                 "kana": "じげん",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "水平；立场，着眼点；维度",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "水平;立场，着眼点",
                 "examples": [
                         {
                                 "ja": "次元[じげん]の低[ひく]い話[はなし]。",
@@ -1844,8 +1844,8 @@
                 "level": "N1",
                 "expression": "嗜好",
                 "kana": "しこう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "嗜好，爱好",
                 "examples": [
                         {
@@ -1867,8 +1867,8 @@
                 "level": "N1",
                 "expression": "施行",
                 "kana": "しこう",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "实施，施行",
                 "examples": [
                         {
@@ -1890,8 +1890,8 @@
                 "level": "N1",
                 "expression": "試行",
                 "kana": "しこう",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "试行",
                 "examples": [
                         {
@@ -1913,8 +1913,8 @@
                 "level": "N1",
                 "expression": "自在",
                 "kana": "じざい",
-                "tone": "⓪",
-                "pos": "名詞・な形容詞",
+                "tone": "[0]",
+                "pos": "名*ナ形",
                 "meaning": "自如，自在",
                 "examples": [
                         {
@@ -1936,9 +1936,9 @@
                 "level": "N1",
                 "expression": "思索",
                 "kana": "しさく",
-                "tone": "⓪",
-                "pos": "名詞・自他動詞",
-                "meaning": "思考，思索",
+                "tone": "[0]",
+                "pos": "名*自他動3",
+                "meaning": "思考,思索",
                 "examples": [
                         {
                                 "ja": "思索[しさく]を巡[めぐ]らす。",
@@ -1959,8 +1959,8 @@
                 "level": "N1",
                 "expression": "自粛",
                 "kana": "じしゅく",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "自慎，自我约束",
                 "examples": [
                         {
@@ -1982,8 +1982,8 @@
                 "level": "N1",
                 "expression": "試食",
                 "kana": "ししょく",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "品尝，试吃",
                 "examples": [
                         {
@@ -2005,8 +2005,8 @@
                 "level": "N1",
                 "expression": "自炊",
                 "kana": "じすい",
-                "tone": "⓪",
-                "pos": "名詞・自動詞",
+                "tone": "[0]",
+                "pos": "名*自動3",
                 "meaning": "自己做饭",
                 "examples": [
                         {
@@ -2029,7 +2029,7 @@
                 "expression": "滴",
                 "kana": "しずく",
                 "tone": "③",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "水滴",
                 "examples": [
                         {
@@ -2052,8 +2052,8 @@
                 "expression": "静まり返る",
                 "kana": "しずまりかえる",
                 "tone": "⑤③",
-                "pos": "自動詞",
-                "meaning": "万籁俱寂。静悄悄",
+                "pos": "自動1",
+                "meaning": "万籁俱寂.静悄悄",
                 "examples": [
                         {
                                 "ja": "ひっそりと静[しず]まり返[かえ]った森[もり]の中[なか]",
@@ -2074,8 +2074,8 @@
                 "level": "N1",
                 "expression": "持続",
                 "kana": "じぞく",
-                "tone": "⓪",
-                "pos": "名詞・自他動詞",
+                "tone": "[0]",
+                "pos": "名*自他動3",
                 "meaning": "持续，保持",
                 "examples": [
                         {
@@ -2098,7 +2098,7 @@
                 "expression": "～自体",
                 "kana": "～じたい",
                 "tone": "",
-                "pos": "接尾辞",
+                "pos": "接尾",
                 "meaning": "……本身，自身",
                 "examples": [
                         {
@@ -2120,9 +2120,9 @@
                 "level": "N1",
                 "expression": "慕う",
                 "kana": "したう",
-                "tone": "⓪②",
-                "pos": "他動詞",
-                "meaning": "怀念；追随；景仰",
+                "tone": "[0]②",
+                "pos": "他動1",
+                "meaning": "怀念;追随；景仰",
                 "examples": [
                         {
                                 "ja": "亡[な]き友人[ゆうじん]を慕[した]う。",
@@ -2143,9 +2143,9 @@
                 "level": "N1",
                 "expression": "下請け",
                 "kana": "したうけ",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
-                "meaning": "转包，分包",
+                "tone": "[0]",
+                "pos": "名*他動3",
+                "meaning": "转包,分包",
                 "examples": [
                         {
                                 "ja": "注文[ちゅうもん]を下請[したう]けに出[だ]す。",
@@ -2167,8 +2167,8 @@
                 "expression": "下心",
                 "kana": "したごころ",
                 "tone": "③",
-                "pos": "名詞",
-                "meaning": "用心，企图",
+                "pos": "名",
+                "meaning": "用心,企图",
                 "examples": [
                         {
                                 "ja": "相手[あいて]の下心[したごころ]が読[よ]めない。",
@@ -2189,9 +2189,9 @@
                 "level": "N1",
                 "expression": "下地",
                 "kana": "したじ",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "基础；资质",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "基础;资质",
                 "examples": [
                         {
                                 "ja": "下地[したじ]を作[つく]る。",
@@ -2213,8 +2213,8 @@
                 "expression": "仕立てる",
                 "kana": "したてる",
                 "tone": "③",
-                "pos": "他動詞",
-                "meaning": "缝制衣服；教育，培养；准备",
+                "pos": "他動2",
+                "meaning": "缝制衣服；教育，培养;准备",
                 "examples": [
                         {
                                 "ja": "息子[むすこ]を一人前[いちにんまえ]の医者[いしゃ]に仕立[した]てる。",
@@ -2235,8 +2235,8 @@
                 "level": "N1",
                 "expression": "下取り",
                 "kana": "したどり",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "以旧换新",
                 "examples": [
                         {
@@ -2258,9 +2258,9 @@
                 "level": "N1",
                 "expression": "下火",
                 "kana": "したび",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "火势渐微；势头衰弱",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "火势渐微;势头衰弱",
                 "examples": [
                         {
                                 "ja": "火事[かじ]が下火[したび]となる。",
@@ -2281,9 +2281,9 @@
                 "level": "N1",
                 "expression": "下役",
                 "kana": "したやく",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "部下，下属",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "部下,下属",
                 "examples": [
                         {
                                 "ja": "下役[したやく]を使[つか]う。",

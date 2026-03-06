@@ -220,7 +220,7 @@
   {
     "id": 5090,
     "expression": "homepage",
-    "kana": "ホ一ムぺ一ジ",
+    "kana": "ホームぺージ",
     "tone": "④",
     "pos": "名",
     "meaning": "主页",
@@ -749,7 +749,7 @@
   {
     "id": 5125,
     "expression": "mark",
-    "kana": "マ一ク",
+    "kana": "マーク",
     "tone": "①",
     "pos": "名*他動3",
     "meaning": "标记，记号；盯，尾随;创造",
@@ -1028,7 +1028,7 @@
   {
     "id": 5143,
     "expression": "master",
-    "kana": "マスタ一",
+    "kana": "マスター",
     "tone": "①",
     "pos": "名*他動3",
     "meaning": "雇主，老板;硕士;精通，掌握",
@@ -1128,7 +1128,7 @@
   {
     "id": 5149,
     "expression": "massage",
-    "kana": "マッサ一ジ",
+    "kana": "マッサージ",
     "tone": "③",
     "pos": "名*他動3",
     "meaning": "按摩，推拿（以去除疲劳）",

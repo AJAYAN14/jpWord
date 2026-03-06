@@ -1077,8 +1077,8 @@
   },
   {
     "id": 2974,
-    "expression": "まとまり",
-    "kana": "まとまり【×纏まり】",
+    "expression": "纏まり",
+    "kana": "まとまり",
     "tone": "[0]",
     "pos": "名",
     "meaning": "一贯性；解决",
@@ -1243,8 +1243,8 @@
   },
   {
     "id": 2985,
-    "expression": "マンネリ",
-    "kana": "マンネリmannerism",
+    "expression": "mannerism",
+    "kana": "マンネリ",
     "tone": "[0]",
     "pos": "名",
     "meaning": "因循守旧，一成不变",

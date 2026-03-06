@@ -337,8 +337,8 @@
   },
   {
     "id": 2723,
-    "expression": "ノルマ",
-    "kana": "ノルマ〖ロシアnorma〗",
+    "expression": "norma",
+    "kana": "ノルマ",
     "tone": "①",
     "pos": "名",
     "meaning": "指标",
@@ -1012,8 +1012,8 @@
   },
   {
     "id": 2770,
-    "expression": "バトンタッチ",
-    "kana": "バトンタッチ《和baton＋touch》",
+    "expression": "baton touch",
+    "kana": "バトンタッチ",
     "tone": "④",
     "pos": "名*自動3",
     "meaning": "递交接力棒；交接",
@@ -1446,8 +1446,8 @@
   },
   {
     "id": 2799,
-    "expression": "ハンデ",
-    "kana": "ハンデ「ハンディキャップ〖handicap〗の略」",
+    "expression": "handicap",
+    "kana": "ハンデ",
     "tone": "①",
     "pos": "名",
     "meaning": "障碍,不利条件",

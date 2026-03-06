@@ -274,8 +274,8 @@
   },
   {
     "id": 5673,
-    "expression": "おかず",
-    "kana": "おかず（御数）",
+    "expression": "御数",
+    "kana": "おかず",
     "tone": "0",
     "pos": "名",
     "meaning": "菜,菜肴",
@@ -887,7 +887,7 @@
   {
     "id": 5716,
     "expression": "carpet",
-    "kana": "カーベット",
+    "kana": "カーペット",
     "tone": "①③",
     "pos": "名",
     "meaning": "地毯",

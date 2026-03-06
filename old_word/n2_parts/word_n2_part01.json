@@ -71,8 +71,8 @@
   },
   {
     "id": 3179,
-    "expression": "アウト",
-    "kana": "out",
+    "expression": "out",
+    "kana": "アウト",
     "tone": "①",
     "pos": "名",
     "meaning": "外側，外部；出界，出局",
@@ -464,7 +464,7 @@
   {
     "id": 3206,
     "expression": "equal",
-    "kana": "イコ一ル",
+    "kana": "イコール",
     "tone": "②",
     "pos": "名",
     "meaning": "等于，相等,等号",
@@ -1196,7 +1196,7 @@
   {
     "id": 3255,
     "expression": "interview",
-    "kana": "インタビュ一",
+    "kana": "インタビュー",
     "tone": "①③",
     "pos": "名*自動3",
     "meaning": "采访，会见",

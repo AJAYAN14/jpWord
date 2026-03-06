@@ -287,8 +287,8 @@
   },
   {
     "id": 5393,
-    "expression": "リストラ",
-    "kana": "リストラrestructuring",
+    "expression": "restructuring",
+    "kana": "リストラ",
     "tone": "[0]",
     "pos": "名*他動3",
     "meaning": "裁员",
@@ -653,7 +653,7 @@
   {
     "id": 5418,
     "expression": "recreation",
-    "kana": "レクリエ一シヨン",
+    "kana": "レクリエーシヨン",
     "tone": "④",
     "pos": "名",
     "meaning": "娱乐，消遣，休养",

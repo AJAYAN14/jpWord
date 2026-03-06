@@ -1260,8 +1260,8 @@
   },
   {
     "id": 1088,
-    "expression": "ネームバリュー",
-    "kana": "ネームバリューname + value",
+    "expression": "name value",
+    "kana": "ネームバリュー",
     "tone": "④",
     "pos": "名",
     "meaning": "声誉，名声",
@@ -1303,7 +1303,7 @@
   {
     "id": 1091,
     "expression": "ねじ回し",
-    "kana": "ねじまわし【螺＝子回し】",
+    "kana": "ねじまわし",
     "tone": "③",
     "pos": "名",
     "meaning": "螺丝刀，螺丝起子",

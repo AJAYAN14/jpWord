@@ -512,7 +512,7 @@
   {
     "id": 536,
     "expression": "根本",
-    "kana": "こんぼん",
+    "kana": "こんぽん",
     "tone": "[0]③",
     "pos": "名",
     "meaning": "根本",
@@ -1294,7 +1294,7 @@
   {
     "id": 590,
     "expression": "jeep",
-    "kana": "ジ一プ",
+    "kana": "ジープ",
     "tone": "①",
     "pos": "名",
     "meaning": "吉普车",
@@ -1372,8 +1372,8 @@
   },
   {
     "id": 596,
-    "expression": "しかるべき",
-    "kana": "しかるべき【▽然る▽可き】",
+    "expression": "然る可き",
+    "kana": "しかるべき",
     "tone": "④",
     "pos": "連語",
     "meaning": "适当的，应有的",

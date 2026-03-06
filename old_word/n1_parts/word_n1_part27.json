@@ -16,7 +16,7 @@
   {
     "id": 2602,
     "expression": "どうのこうの",
-    "kana": "どうのこう",
+    "kana": "どうのこうの",
     "tone": "①④",
     "pos": "副",
     "meaning": "说这说那",
@@ -729,8 +729,8 @@
   },
   {
     "id": 2649,
-    "expression": "とりわけ",
-    "kana": "とりわけ【取（り）分け】",
+    "expression": "取分け",
+    "kana": "とりわけ",
     "tone": "[0]",
     "pos": "副",
     "meaning": "特別，格外",
@@ -1364,8 +1364,8 @@
   },
   {
     "id": 2693,
-    "expression": "ニュアンス",
-    "kana": "ニュアンス〖フランスnuance〗",
+    "expression": "nuance",
+    "kana": "ニュアンス〗",
     "tone": "①",
     "pos": "名",
     "meaning": "微妙的感觉",

@@ -6,7 +6,7 @@
                 "kana": "きょり",
                 "tone": "①",
                 "pos": "名",
-                "meaning": "距离，间隔；差距",
+                "meaning": "距离，间隔;差距",
                 "examples": [
                         {
                                 "ja": "距離[きょり]を測[はか]る。",
@@ -50,7 +50,7 @@
                 "level": "N3",
                 "expression": "気楽",
                 "kana": "きらく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形",
                 "meaning": "轻松，随便，安闲",
                 "examples": [
@@ -73,7 +73,7 @@
                 "level": "N3",
                 "expression": "霧",
                 "kana": "きり",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "雾",
                 "examples": [
@@ -96,9 +96,9 @@
                 "level": "N3",
                 "expression": "ぎりぎり",
                 "kana": "ぎりぎり",
-                "tone": "⓪①",
+                "tone": "0①",
                 "pos": "名.副",
-                "meaning": "最大限度，极限",
+                "meaning": "最大限度,极限",
                 "examples": [
                         {
                                 "ja": "時間[じかん]ぎりぎりで間[ま]に合[あ]う。",
@@ -121,7 +121,7 @@
                 "kana": "きれる",
                 "tone": "②",
                 "pos": "自動2",
-                "meaning": "砍伤，切伤；到期，用尽",
+                "meaning": "砍伤，切伤;到期,用尽",
                 "examples": [
                         {
                                 "ja": "期限[きげん]が切[き]れる。",
@@ -142,7 +142,7 @@
                 "level": "N3",
                 "expression": "記録",
                 "kana": "きろく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "记载，记录",
                 "examples": [
@@ -188,9 +188,9 @@
                 "level": "N3",
                 "expression": "禁煙",
                 "kana": "きんえん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
-                "meaning": "禁止吸烟；戒烟",
+                "meaning": "禁止吸烟;戒烟",
                 "examples": [
                         {
                                 "ja": "車内[しゃない]は禁煙[きんえん]だ。",
@@ -234,7 +234,7 @@
                 "level": "N3",
                 "expression": "金額",
                 "kana": "きんがく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "金额",
                 "examples": [
@@ -257,9 +257,9 @@
                 "level": "N3",
                 "expression": "緊急",
                 "kana": "きんきゅう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形",
-                "meaning": "紧急；急迫，迫不及待",
+                "meaning": "紧急;急迫，迫不及待",
                 "examples": [
                         {
                                 "ja": "緊急[きんきゅう]会議[かいぎ]を開[ひら]く。",
@@ -280,7 +280,7 @@
                 "level": "N3",
                 "expression": "禁止",
                 "kana": "きんし",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "禁止",
                 "examples": [
@@ -328,7 +328,7 @@
                 "kana": "きんだい",
                 "tone": "①",
                 "pos": "名",
-                "meaning": "近代；现代",
+                "meaning": "近代;现代",
                 "examples": [
                         {
                                 "ja": "近代[きんだい]史[し]",
@@ -349,7 +349,7 @@
                 "level": "N3",
                 "expression": "緊張",
                 "kana": "きんちょう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
                 "meaning": "紧张",
                 "examples": [
@@ -395,9 +395,9 @@
                 "level": "N3",
                 "expression": "勤勉",
                 "kana": "きんべん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形",
-                "meaning": "勤勉～勤奋。勤劳",
+                "meaning": "勤勉～勤奋.勤劳",
                 "examples": [
                         {
                                 "ja": "勤勉[きんべん]な人[ひと]",
@@ -441,9 +441,9 @@
                 "level": "N3",
                 "expression": "空席",
                 "kana": "くうせき",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "空座；空缺的职位",
+                "meaning": "空座;空缺的职位",
                 "examples": [
                         {
                                 "ja": "空席[くうせき]がない。",
@@ -489,7 +489,7 @@
                 "kana": "くさる",
                 "tone": "②",
                 "pos": "自動1",
-                "meaning": "腐烂。腐败；腐朽；消沉",
+                "meaning": "腐烂.腐败；腐朽;消沉",
                 "examples": [
                         {
                                 "ja": "腐[くさ]ったりんご",
@@ -535,7 +535,7 @@
                 "kana": "ぐずぐず",
                 "tone": "①",
                 "pos": "副",
-                "meaning": "磨磨蹭蹭，慢吞呑；唠叨",
+                "meaning": "磨磨蹭蹭，慢吞呑;唠叨",
                 "examples": [
                         {
                                 "ja": "ぐずぐずしていると、バスに間[ま]に合[あ]わないよ。",
@@ -558,7 +558,7 @@
                 "kana": "くずす",
                 "tone": "②",
                 "pos": "他動1",
-                "meaning": "拆毁，拆散；弄凌乱，（使）敗乱",
+                "meaning": "拆毁，拆散;弄凌乱，(使）敗乱",
                 "examples": [
                         {
                                 "ja": "列[れつ]を崩[くず]す。",
@@ -625,7 +625,7 @@
                 "level": "N3",
                 "expression": "具体的",
                 "kana": "ぐたいてき",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "ナ形",
                 "meaning": "实际，具体的",
                 "examples": [
@@ -671,7 +671,7 @@
                 "level": "N3",
                 "expression": "下る",
                 "kana": "くだる",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "自動1",
                 "meaning": "下，下去；宣判；少于",
                 "examples": [
@@ -694,7 +694,7 @@
                 "level": "N3",
                 "expression": "口癖",
                 "kana": "くちぐせ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "口头语，口头禅",
                 "examples": [
@@ -717,7 +717,7 @@
                 "level": "N3",
                 "expression": "唇",
                 "kana": "くちびる",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "嘴唇，唇",
                 "examples": [
@@ -740,9 +740,9 @@
                 "level": "N3",
                 "expression": "口紅",
                 "kana": "くちべに",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "口红",
+                "meaning": "ロ红",
                 "examples": [
                         {
                                 "ja": "口紅[くちべに]をつける。",
@@ -788,7 +788,7 @@
                 "kana": "くどい",
                 "tone": "②",
                 "pos": "イ形",
-                "meaning": "啰嗦，唠叨；过于浓厚，油腻",
+                "meaning": "啰嗦，唠叨;过于浓厚，油腻",
                 "examples": [
                         {
                                 "ja": "くどい説明[せつめい]。",
@@ -834,7 +834,7 @@
                 "kana": "くべつ",
                 "tone": "①",
                 "pos": "名*他動3",
-                "meaning": "区別；辨別，分清",
+                "meaning": "区別;辨別,分清",
                 "examples": [
                         {
                                 "ja": "区別[くべつ]がつかない。",
@@ -878,9 +878,9 @@
                 "level": "N3",
                 "expression": "組合",
                 "kana": "くみあい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "工会，合作社",
+                "meaning": "ェ会,合作社",
                 "examples": [
                         {
                                 "ja": "信用[しんよう]組合[くみあい]",
@@ -901,7 +901,7 @@
                 "level": "N3",
                 "expression": "組み合わせる",
                 "kana": "くみあわせる",
-                "tone": "⑤⓪",
+                "tone": "⑤0",
                 "pos": "他動2",
                 "meaning": "搭配，配合",
                 "examples": [
@@ -924,9 +924,9 @@
                 "level": "N3",
                 "expression": "組み立てる",
                 "kana": "くみたてる",
-                "tone": "④⓪",
+                "tone": "④0",
                 "pos": "他動2",
-                "meaning": "组织；装配；组成",
+                "meaning": "组织;装配;组成",
                 "examples": [
                         {
                                 "ja": "テレビを組[く]み立[た]てる。",
@@ -947,9 +947,9 @@
                 "level": "N3",
                 "expression": "汲む",
                 "kana": "くむ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "他動1",
-                "meaning": "打水；斟。倒",
+                "meaning": "打水;斟.倒",
                 "examples": [
                         {
                                 "ja": "水[みず]を汲[く]む。",
@@ -972,7 +972,7 @@
                 "kana": "くむ",
                 "tone": "①",
                 "pos": "自他動1",
-                "meaning": "把……交叉起来；合伙，联合",
+                "meaning": "把……交叉起来;合伙，联合",
                 "examples": [
                         {
                                 "ja": "彼[かれ]と組[く]んで仕事[しごと]をする。",
@@ -1018,7 +1018,7 @@
                 "kana": "くやしがる",
                 "tone": "④",
                 "pos": "自動1",
-                "meaning": "悔恨，懊悔。气愤",
+                "meaning": "悔恨，懊悔.气愤",
                 "examples": [
                         {
                                 "ja": "悔[くや]しがって涙[なみだ]を流[なが]す。",
@@ -1062,9 +1062,9 @@
                 "level": "N3",
                 "expression": "ground",
                 "kana": "グラウンド",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "运动场，操场，广场",
+                "meaning": "运动场，操场,广场",
                 "examples": [
                         {
                                 "ja": "小学校[しょうがっこう]のグラウンド",
@@ -1133,7 +1133,7 @@
                 "kana": "クラシック",
                 "tone": "③②",
                 "pos": "名*ナ形",
-                "meaning": "古典；古典的",
+                "meaning": "古典;古典的",
                 "examples": [
                         {
                                 "ja": "クラシック音楽[おんがく]",
@@ -1154,7 +1154,7 @@
                 "level": "N3",
                 "expression": "graph",
                 "kana": "グラフ",
-                "tone": "①⓪",
+                "tone": "①0",
                 "pos": "名",
                 "meaning": "图表",
                 "examples": [
@@ -1202,7 +1202,7 @@
                 "kana": "クリーム",
                 "tone": "②",
                 "pos": "名",
-                "meaning": "奶油；乳液",
+                "meaning": "奶油;乳液",
                 "examples": [
                         {
                                 "ja": "生[なま]クリーム",
@@ -1223,7 +1223,7 @@
                 "level": "N3",
                 "expression": "繰り返す",
                 "kana": "くりかえす",
-                "tone": "③④⓪",
+                "tone": "③④0",
                 "pos": "他動1",
                 "meaning": "反复，重复",
                 "examples": [
@@ -1248,7 +1248,7 @@
                 "kana": "グループ",
                 "tone": "②",
                 "pos": "名",
-                "meaning": "群，组；集团",
+                "meaning": "群，组;集团",
                 "examples": [
                         {
                                 "ja": "グループに入[はい]る。",
@@ -1294,7 +1294,7 @@
                 "kana": "くるしむ",
                 "tone": "③",
                 "pos": "自動1",
-                "meaning": "感到痛苦，感到难受；受折磨；苦于",
+                "meaning": "感到痛苦,感到难受;受折磨;苦于",
                 "examples": [
                         {
                                 "ja": "高熱[こうねつ]で一[ひと]晩[ばん]中[じゅう]苦[くる]しんだ。",
@@ -1315,9 +1315,9 @@
                 "level": "N3",
                 "expression": "暮れ",
                 "kana": "くれ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "日暮，黄昏；年终",
+                "meaning": "日暮，黄昏;年终",
                 "examples": [
                         {
                                 "ja": "暮[く]れの大[おお]売[う]り出[だ]し。",
@@ -1340,7 +1340,7 @@
                 "kana": "くれぐれも",
                 "tone": "③②",
                 "pos": "副",
-                "meaning": "恳切地，衷心地；反复周到",
+                "meaning": "恳切地,衷心地;反复周到",
                 "examples": [
                         {
                                 "ja": "くれぐれも気[き]をつけて。",
@@ -1361,7 +1361,7 @@
                 "level": "N3",
                 "expression": "credit card",
                 "kana": "クレジットカード",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "信用卡",
                 "examples": [
@@ -1384,9 +1384,9 @@
                 "level": "N3",
                 "expression": "暮れる",
                 "kana": "くれる",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "自動2",
-                "meaning": "日幕，天黑；年终，岁苒",
+                "meaning": "日幕,天黑;年终,岁苒",
                 "examples": [
                         {
                                 "ja": "日[ひ]が暮[く]れる。",
@@ -1430,7 +1430,7 @@
                 "level": "N3",
                 "expression": "黒字",
                 "kana": "くろじ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "盈余",
                 "examples": [
@@ -1453,9 +1453,9 @@
                 "level": "N3",
                 "expression": "加える",
                 "kana": "くわえる",
-                "tone": "⓪③",
+                "tone": "0③",
                 "pos": "他動2",
-                "meaning": "加上，增加；包括；给予",
+                "meaning": "加上,增加;包括;给予",
                 "examples": [
                         {
                                 "ja": "説明[せつめい]を加[くわ]える。",
@@ -1478,7 +1478,7 @@
                 "kana": "くわしい",
                 "tone": "③",
                 "pos": "イ形",
-                "meaning": "详细，详密；精通，熟悉",
+                "meaning": "详细，详密;精通,熟悉",
                 "examples": [
                         {
                                 "ja": "詳[くわ]しく報告[ほうこく]する。",
@@ -1522,9 +1522,9 @@
                 "level": "N3",
                 "expression": "景気",
                 "kana": "けいき",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "景气，商情；繁荣",
+                "meaning": "景气，商情;繁荣",
                 "examples": [
                         {
                                 "ja": "景気[けいき]がいい。",
@@ -1568,7 +1568,7 @@
                 "level": "N3",
                 "expression": "敬語",
                 "kana": "けいご",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "敬语",
                 "examples": [
@@ -1591,7 +1591,7 @@
                 "level": "N3",
                 "expression": "傾向",
                 "kana": "けいこう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "倾向，趋势",
                 "examples": [
@@ -1614,9 +1614,9 @@
                 "level": "N3",
                 "expression": "経済的",
                 "kana": "けいざいてき",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "ナ形",
-                "meaning": "经济上的；节约",
+                "meaning": "经济上的;节约",
                 "examples": [
                         {
                                 "ja": "時間[じかん]を経済[けいざい]的[てき]に使[つか]う。",
@@ -1635,9 +1635,9 @@
         {
                 "id": "N3_0572",
                 "level": "N3",
-                "expression": "计算",
+                "expression": "計算",
                 "kana": "けいさん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "计算；考虑，估计",
                 "examples": [
@@ -1660,7 +1660,7 @@
                 "level": "N3",
                 "expression": "形式",
                 "kana": "けいしき",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "形式",
                 "examples": [
@@ -1683,7 +1683,7 @@
                 "level": "N3",
                 "expression": "掲示板",
                 "kana": "けいじばん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "布告栏，告示牌",
                 "examples": [
@@ -1706,7 +1706,7 @@
                 "level": "N3",
                 "expression": "芸術",
                 "kana": "げいじゅつ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "艺术",
                 "examples": [
@@ -1752,7 +1752,7 @@
                 "level": "N3",
                 "expression": "契約",
                 "kana": "けいやく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "契约，合同",
                 "examples": [
@@ -1777,7 +1777,7 @@
                 "kana": "ケース",
                 "tone": "①",
                 "pos": "名",
-                "meaning": "事例；箱。盒",
+                "meaning": "事例;箱.盒",
                 "examples": [
                         {
                                 "ja": "典型[てんけい]的[てき]なケース",
@@ -1798,7 +1798,7 @@
                 "level": "N3",
                 "expression": "外科",
                 "kana": "げか",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "外科",
                 "examples": [
@@ -1821,7 +1821,7 @@
                 "level": "N3",
                 "expression": "下校",
                 "kana": "げこう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
                 "meaning": "放学",
                 "examples": [
@@ -1867,7 +1867,7 @@
                 "level": "N3",
                 "expression": "下旬",
                 "kana": "げじゅん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "下旬",
                 "examples": [
@@ -1913,9 +1913,9 @@
                 "level": "N3",
                 "expression": "下水",
                 "kana": "げすい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "脏水；下水道",
+                "meaning": "脏水;下水道",
                 "examples": [
                         {
                                 "ja": "下水[げすい]を川[かわ]に流[なが]す。",
@@ -1936,7 +1936,7 @@
                 "level": "N3",
                 "expression": "削る",
                 "kana": "けずる",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "他動1",
                 "meaning": "削；削减",
                 "examples": [
@@ -1982,7 +1982,7 @@
                 "level": "N3",
                 "expression": "下駄",
                 "kana": "げた",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "木屐",
                 "examples": [
@@ -2007,7 +2007,7 @@
                 "kana": "けち",
                 "tone": "①",
                 "pos": "名*ナ形",
-                "meaning": "吝啬，小气；简陋",
+                "meaning": "吝啬，小气;简陋",
                 "examples": [
                         {
                                 "ja": "けちな人[ひと]",
@@ -2051,7 +2051,7 @@
                 "level": "N3",
                 "expression": "月給",
                 "kana": "げっきゅう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "月薪",
                 "examples": [
@@ -2074,9 +2074,9 @@
                 "level": "N3",
                 "expression": "結局",
                 "kana": "けっきょく",
-                "tone": "⓪④",
+                "tone": "0④",
                 "pos": "名*副",
-                "meaning": "结局，结果；终究，终归到底",
+                "meaning": "结局，结果;终究，终归到底",
                 "examples": [
                         {
                                 "ja": "結局[けっきょく]はお金[かね]の問題[もんだい]だ。",
@@ -2097,7 +2097,7 @@
                 "level": "N3",
                 "expression": "欠勤",
                 "kana": "けっきん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
                 "meaning": "缺勤，请假",
                 "examples": [
@@ -2143,7 +2143,7 @@
                 "level": "N3",
                 "expression": "月末",
                 "kana": "げつまつ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "月底",
                 "examples": [
@@ -2166,7 +2166,7 @@
                 "level": "N3",
                 "expression": "煙い",
                 "kana": "けむい",
-                "tone": "②⓪",
+                "tone": "②0",
                 "pos": "イ形",
                 "meaning": "烟气熏人的，呛人的",
                 "examples": [
@@ -2189,9 +2189,9 @@
                 "level": "N3",
                 "expression": "煙",
                 "kana": "けむり",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "烟；烟状物",
+                "meaning": "烟;烟状物",
                 "examples": [
                         {
                                 "ja": "煙突[えんとつ]から煙[けむり]が出[で]る。",
@@ -2260,7 +2260,7 @@
                 "kana": "けん",
                 "tone": "①",
                 "pos": "名*接尾",
-                "meaning": "票据，票；证书",
+                "meaning": "票据，票;证书",
                 "examples": [
                         {
                                 "ja": "乗車[じょうしゃ]券[けん]",

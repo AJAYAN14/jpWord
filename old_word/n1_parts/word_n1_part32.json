@@ -227,8 +227,8 @@
   },
   {
     "id": 3116,
-    "expression": "よって",
-    "kana": "よって【因って┊▽依って┊×仍って】",
+    "expression": "因って/依って/仍って",
+    "kana": "よって",
     "tone": "[0]",
     "pos": "接",
     "meaning": "故而,因此",
@@ -463,8 +463,8 @@
   },
   {
     "id": 3133,
-    "expression": "リハビリ",
-    "kana": "リハビリ〖rehabilitationの略〗",
+    "expression": "rehabilitation",
+    "kana": "リハビリ",
     "tone": "[0]",
     "pos": "名",
     "meaning": "医疗指导，康复训练",

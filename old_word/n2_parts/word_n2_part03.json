@@ -414,8 +414,8 @@
   },
   {
     "id": 3404,
-    "expression": "カーナビ",
-    "kana": "カーナビcar navigation system",
+    "expression": "car navigation system",
+    "kana": "カーナビ",
     "tone": "[0]",
     "pos": "名",
     "meaning": "汽车自动导航仪",
@@ -424,7 +424,7 @@
   {
     "id": 3405,
     "expression": "curve",
-    "kana": "カ一ブ",
+    "kana": "カーブ",
     "tone": "①",
     "pos": "名*自動3",
     "meaning": "弯，拐弯；曲线",

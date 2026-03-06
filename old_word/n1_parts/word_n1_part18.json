@@ -47,8 +47,8 @@
   },
   {
     "id": 1704,
-    "expression": "エステ",
-    "kana": "エステ[エステティックの略]〖ドイツ～sthetik┊フランスesthétique〗",
+    "expression": "esthetic",
+    "kana": "エステ",
     "tone": "①",
     "pos": "名",
     "meaning": "美容店",
@@ -1049,8 +1049,8 @@
   },
   {
     "id": 1771,
-    "expression": "おろそか",
-    "kana": "おろそか【▽疎か】",
+    "expression": "疎か",
+    "kana": "おろそか",
     "tone": "②",
     "pos": "ナ形",
     "meaning": "敷衍，马虎，疏忽",
@@ -1063,8 +1063,8 @@
   },
   {
     "id": 1772,
-    "expression": "ガーゼ",
-    "kana": "ガーゼドイツ Gaze",
+    "expression": "Gaze",
+    "kana": "ガーゼ",
     "tone": "①",
     "pos": "名",
     "meaning": "纱布",

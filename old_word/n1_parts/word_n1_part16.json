@@ -93,8 +93,8 @@
   },
   {
     "id": 1507,
-    "expression": "アクセル",
-    "kana": "アクセル（accelerator）",
+    "expression": "accelerator",
+    "kana": "アクセル",
     "tone": "①",
     "pos": "名",
     "meaning": "加速器，油门",
@@ -889,8 +889,8 @@
   },
   {
     "id": 1563,
-    "expression": "ありふれた",
-    "kana": "ありふれた【有り触れた】",
+    "expression": "有り触れた",
+    "kana": "ありふれた",
     "tone": "③[0]",
     "pos": "連体",
     "meaning": "常见的",
@@ -1148,8 +1148,8 @@
   },
   {
     "id": 1581,
-    "expression": "いかなる",
-    "kana": "いかなる【如＝何なる】",
+    "expression": "如なる/何なる",
+    "kana": "いかなる",
     "tone": "②",
     "pos": "連体",
     "meaning": "如何的,怎样的",

@@ -4,7 +4,7 @@
                 "level": "N3",
                 "expression": "観光",
                 "kana": "かんこう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "观光，旅游",
                 "examples": [
@@ -48,9 +48,9 @@
         {
                 "id": "N3_0403",
                 "level": "N3",
-                "expression": "观察",
+                "expression": "観察",
                 "kana": "かんさつ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "观察",
                 "examples": [
@@ -96,9 +96,9 @@
                 "level": "N3",
                 "expression": "感じ",
                 "kana": "かんじ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "知觉；感想",
+                "meaning": "知觉;感想",
                 "examples": [
                         {
                                 "ja": "いい感[かん]じですね。",
@@ -119,7 +119,7 @@
                 "level": "N3",
                 "expression": "元日",
                 "kana": "がんじつ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "元旦",
                 "examples": [
@@ -140,7 +140,7 @@
         {
                 "id": "N3_0407",
                 "level": "N3",
-                "expression": "感谢",
+                "expression": "感謝",
                 "kana": "かんしゃ",
                 "tone": "①",
                 "pos": "名*他動3",
@@ -165,7 +165,7 @@
                 "level": "N3",
                 "expression": "感情",
                 "kana": "かんじょう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "感情，情绪",
                 "examples": [
@@ -211,7 +211,7 @@
                 "level": "N3",
                 "expression": "関心",
                 "kana": "かんしん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "感兴趣",
                 "examples": [
@@ -236,7 +236,7 @@
                 "kana": "かんする",
                 "tone": "③",
                 "pos": "自動3",
-                "meaning": "（与）有关，关于",
+                "meaning": "(与）有关，关于",
                 "examples": [
                         {
                                 "ja": "地震[じしん]に関[かん]するニュース",
@@ -257,7 +257,7 @@
                 "level": "N3",
                 "expression": "完成",
                 "kana": "かんせい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自他動3",
                 "meaning": "完成",
                 "examples": [
@@ -280,7 +280,7 @@
                 "level": "N3",
                 "expression": "間接",
                 "kana": "かんせつ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形",
                 "meaning": "间接",
                 "examples": [
@@ -303,7 +303,7 @@
                 "level": "N3",
                 "expression": "完全",
                 "kana": "かんぜん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形",
                 "meaning": "完全，完整，完善，完美",
                 "examples": [
@@ -326,9 +326,9 @@
                 "level": "N3",
                 "expression": "乾燥",
                 "kana": "かんそう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自他動3",
-                "meaning": "干燥；枯燥",
+                "meaning": "干燥;枯燥",
                 "examples": [
                         {
                                 "ja": "乾燥[かんそう]した空気[くうき]",
@@ -349,7 +349,7 @@
                 "level": "N3",
                 "expression": "感想",
                 "kana": "かんそう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "感想",
                 "examples": [
@@ -416,10 +416,10 @@
         {
                 "id": "N3_0419",
                 "level": "N3",
-                "expression": "感动",
+                "expression": "感動",
                 "kana": "かんどう",
-                "tone": "⓪",
-                "pos": "名*自动3",
+                "tone": "0",
+                "pos": "名*自動3",
                 "meaning": "感动",
                 "examples": [
                         {
@@ -439,11 +439,11 @@
         {
                 "id": "N3_0420",
                 "level": "N3",
-                "expression": "监督",
+                "expression": "監督",
                 "kana": "かんとく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
-                "meaning": "监督，监视；监督者，管理人；导演",
+                "meaning": "监督，监视;监督者，管理人;导演",
                 "examples": [
                         {
                                 "ja": "映画[えいが]監督[かんとく]。",
@@ -464,7 +464,7 @@
                 "level": "N3",
                 "expression": "乾杯",
                 "kana": "かんぱい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
                 "meaning": "干杯",
                 "examples": [
@@ -487,9 +487,9 @@
                 "level": "N3",
                 "expression": "看板",
                 "kana": "かんばん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "（商店等的）招牌，幌子",
+                "meaning": "(商店等的）招牌，幌子",
                 "examples": [
                         {
                                 "ja": "看板[かんばん]を掲[かか]げる。",
@@ -556,7 +556,7 @@
                 "level": "N3",
                 "expression": "完了",
                 "kana": "かんりょう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自他動3",
                 "meaning": "完结，完成",
                 "examples": [
@@ -627,7 +627,7 @@
                 "kana": "ぎいん",
                 "tone": "①",
                 "pos": "名",
-                "meaning": "（国会、地方会议的）议员",
+                "meaning": "(国会、地方会议的）议员",
                 "examples": [
                         {
                                 "ja": "国会[こっかい]議員[ぎいん]",
@@ -648,9 +648,9 @@
                 "level": "N3",
                 "expression": "記憶",
                 "kana": "きおく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
-                "meaning": "记忆；记忆力",
+                "meaning": "记忆;记忆カ",
                 "examples": [
                         {
                                 "ja": "記憶[きおく]を呼[よ]び起[お]こす。",
@@ -671,7 +671,7 @@
                 "level": "N3",
                 "expression": "気温",
                 "kana": "きおん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "气温",
                 "examples": [
@@ -719,7 +719,7 @@
                 "kana": "きがかり",
                 "tone": "②",
                 "pos": "名*ナ形",
-                "meaning": "挂念，担心",
+                "meaning": "挂念,担心",
                 "examples": [
                         {
                                 "ja": "試験[しけん]の結果[けっか]が起[き]がかりだ。",
@@ -740,7 +740,7 @@
                 "level": "N3",
                 "expression": "企画",
                 "kana": "きかく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "规划，计划",
                 "examples": [
@@ -811,7 +811,7 @@
                 "kana": "ききかえす",
                 "tone": "③",
                 "pos": "他動1",
-                "meaning": "再问，重问；反问",
+                "meaning": "再问，重问;反问",
                 "examples": [
                         {
                                 "ja": "意味[いみ]がよくわからなかったので、聞[き]き返[かえ]した。",
@@ -832,7 +832,7 @@
                 "level": "N3",
                 "expression": "聞き手",
                 "kana": "ききて",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "听者，听众",
                 "examples": [
@@ -924,7 +924,7 @@
                 "level": "N3",
                 "expression": "効く/利く",
                 "kana": "きく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "自動1",
                 "meaning": "有效；好使，敏锐",
                 "examples": [
@@ -947,7 +947,7 @@
                 "level": "N3",
                 "expression": "菊",
                 "kana": "きく",
-                "tone": "⓪②",
+                "tone": "0②",
                 "pos": "名",
                 "meaning": "菊花",
                 "examples": [
@@ -1016,9 +1016,9 @@
                 "level": "N3",
                 "expression": "機嫌",
                 "kana": "きげん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "心情，情绪；高兴",
+                "meaning": "心情,情緒;高兴",
                 "examples": [
                         {
                                 "ja": "機嫌[きげん]がいい。",
@@ -1039,9 +1039,9 @@
                 "level": "N3",
                 "expression": "刻む",
                 "kana": "きざむ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "他動1",
-                "meaning": "切细，剁碎；雕刻；牢记；（钟表）计时",
+                "meaning": "切细，剁碎;雕刻;牢记;(钟表）计时",
                 "examples": [
                         {
                                 "ja": "心[こころ]に刻[きざ]む。",
@@ -1064,7 +1064,7 @@
                 "kana": "きじ",
                 "tone": "①",
                 "pos": "名",
-                "meaning": "布料；本来面目",
+                "meaning": "布料;本来面目",
                 "examples": [
                         {
                                 "ja": "洋服[ようふく]の生地[きじ]",
@@ -1131,7 +1131,7 @@
                 "level": "N3",
                 "expression": "傷",
                 "kana": "きず",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "伤，创伤；（物体上的）伤痕，疤；瑕疵，缺点",
                 "examples": [
@@ -1156,7 +1156,7 @@
                 "kana": "きそ",
                 "tone": "①②",
                 "pos": "名",
-                "meaning": "地基，根基；基础",
+                "meaning": "地基,根基;基础",
                 "examples": [
                         {
                                 "ja": "基礎[きそ]を固[かた]める。",
@@ -1177,7 +1177,7 @@
                 "level": "N3",
                 "expression": "期待",
                 "kana": "きたい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "期待，期望",
                 "examples": [
@@ -1202,7 +1202,7 @@
                 "kana": "きちんと",
                 "tone": "②",
                 "pos": "副",
-                "meaning": "整洁；准时，如期；牢牢地",
+                "meaning": "整洁;准时，如期;牢牢地",
                 "examples": [
                         {
                                 "ja": "きちんと部屋[へや]を片付[かたづ]けた。",
@@ -1223,9 +1223,9 @@
                 "level": "N3",
                 "expression": "きつい",
                 "kana": "きつい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "イ形",
-                "meaning": "強烈；严厉；费力",
+                "meaning": "強烈;严厉；费力",
                 "examples": [
                         {
                                 "ja": "きつく叱[しか]る。",
@@ -1269,9 +1269,9 @@
                 "level": "N3",
                 "expression": "切っ掛け",
                 "kana": "きっかけ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "开端，开始；机会，契机",
+                "meaning": "开端，开始;机会,契机",
                 "examples": [
                         {
                                 "ja": "ささやかなことがきっかけで喧嘩[けんか]になった。",
@@ -1294,7 +1294,7 @@
                 "kana": "きづく",
                 "tone": "②",
                 "pos": "自動1",
-                "meaning": "注意到。发觉",
+                "meaning": "注意到.发觉",
                 "examples": [
                         {
                                 "ja": "忘[わす]れ物[もの]に気[き]づく。",
@@ -1315,7 +1315,7 @@
                 "level": "N3",
                 "expression": "喫茶店",
                 "kana": "きっさてん",
-                "tone": "⓪③",
+                "tone": "0③",
                 "pos": "名",
                 "meaning": "咖啡馆",
                 "examples": [
@@ -1361,7 +1361,7 @@
                 "level": "N3",
                 "expression": "記入",
                 "kana": "きにゅう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
                 "meaning": "记上，写上，填写",
                 "examples": [
@@ -1386,7 +1386,7 @@
                 "kana": "きのどく",
                 "tone": "③④",
                 "pos": "名.ナ形",
-                "meaning": "（感到）可伶，悲惨",
+                "meaning": "(感到）可伶，悲惨",
                 "examples": [
                         {
                                 "ja": "彼[かれ]のことを気[き]の毒[どく]に思[おも]っている。",
@@ -1453,9 +1453,9 @@
                 "level": "N3",
                 "expression": "基本的",
                 "kana": "きほんてき",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "ナ形",
-                "meaning": "基础的。基本的",
+                "meaning": "基础的.基本的",
                 "examples": [
                         {
                                 "ja": "基本[きほん]的[てき]な問題[もんだい]",
@@ -1476,7 +1476,7 @@
                 "level": "N3",
                 "expression": "期末",
                 "kana": "きまつ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "期末",
                 "examples": [
@@ -1499,9 +1499,9 @@
                 "level": "N3",
                 "expression": "決まり",
                 "kana": "きまり",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "规定，了结；惯例",
+                "meaning": "规定，了结;惯例",
                 "examples": [
                         {
                                 "ja": "決[き]まりを守[まも]る。",
@@ -1522,8 +1522,8 @@
                 "level": "N3",
                 "expression": "決まる",
                 "kana": "きまる",
-                "tone": "⓪",
-                "pos": "自動1",
+                "tone": "0",
+                "pos": "自動I",
                 "meaning": "决定；间定的；肯定，必然",
                 "examples": [
                         {
@@ -1547,7 +1547,7 @@
                 "kana": "ぎむ",
                 "tone": "①",
                 "pos": "名",
-                "meaning": "义务。本分",
+                "meaning": "义务.本分",
                 "examples": [
                         {
                                 "ja": "義務[ぎむ]を果[は]たす。",
@@ -1568,7 +1568,7 @@
                 "level": "N3",
                 "expression": "疑問",
                 "kana": "ぎもん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "疑问",
                 "examples": [
@@ -1591,7 +1591,7 @@
                 "level": "N3",
                 "expression": "逆",
                 "kana": "ぎゃく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形",
                 "meaning": "逆，相反",
                 "examples": [
@@ -1614,7 +1614,7 @@
                 "level": "N3",
                 "expression": "逆に",
                 "kana": "ぎゃくに",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "副",
                 "meaning": "逆，倒，相反",
                 "examples": [
@@ -1637,7 +1637,7 @@
                 "level": "N3",
                 "expression": "客間",
                 "kana": "きゃくま",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "客厅",
                 "examples": [
@@ -1685,7 +1685,7 @@
                 "kana": "キャベツ",
                 "tone": "①",
                 "pos": "名",
-                "meaning": "圆白菜，卷心菜",
+                "meaning": "圆白菜,卷心菜",
                 "examples": [
                         {
                                 "ja": "キャベツを刻[きざ]む。",
@@ -1751,7 +1751,7 @@
                 "id": "N3_0477",
                 "level": "N3",
                 "expression": "camp",
-                "kana": "キャンプ",
+                "kana": "キャンフ",
                 "tone": "①",
                 "pos": "名*自動3",
                 "meaning": "露营",
@@ -1798,7 +1798,7 @@
                 "level": "N3",
                 "expression": "休暇",
                 "kana": "きゅうか",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "休假",
                 "examples": [
@@ -1821,7 +1821,7 @@
                 "level": "N3",
                 "expression": "休学",
                 "kana": "きゅうがく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
                 "meaning": "休学",
                 "examples": [
@@ -1844,9 +1844,9 @@
                 "level": "N3",
                 "expression": "休講",
                 "kana": "きゅうこう",
-                "tone": "⓪",
-                "pos": "名*自動3",
-                "meaning": "（教师因故）停课",
+                "tone": "0",
+                "pos": "名*内動3",
+                "meaning": "(教师因故）停课",
                 "examples": [
                         {
                                 "ja": "午後[ごご]の講義[こうぎ]は休講[きゅうこう]だ。",
@@ -1867,7 +1867,7 @@
                 "level": "N3",
                 "expression": "急速",
                 "kana": "きゅうそく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形",
                 "meaning": "迅速，快速",
                 "examples": [
@@ -1892,7 +1892,7 @@
                 "kana": "きよい",
                 "tone": "②",
                 "pos": "イ形",
-                "meaning": "淸澈；纯洁",
+                "meaning": "淸澈;纯洁",
                 "examples": [
                         {
                                 "ja": "清[きよ]い心[こころ]",
@@ -1915,7 +1915,7 @@
                 "kana": "きよう",
                 "tone": "①",
                 "pos": "ナ形",
-                "meaning": "精巧，灵巧；巧妙",
+                "meaning": "精巧,灵巧；巧妙",
                 "examples": [
                         {
                                 "ja": "器用[きよう]な細工[さいく]",
@@ -1938,7 +1938,7 @@
                 "kana": "～ぎょう",
                 "tone": "",
                 "pos": "接尾",
-                "meaning": "（文字的）……行",
+                "meaning": "(文字的）……行",
                 "examples": [
                         {
                                 "ja": "1行[ぎょう]おきに書[か]く。",
@@ -1959,9 +1959,9 @@
                 "level": "N3",
                 "expression": "教員",
                 "kana": "きょういん",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
-                "meaning": "教员，教师",
+                "meaning": "教员,教师",
                 "examples": [
                         {
                                 "ja": "教員[きょういん]採用[さいよう]試験[しけん]",
@@ -1983,7 +1983,7 @@
                 "expression": "競技",
                 "kana": "きょうぎ",
                 "tone": "①",
-                "pos": "名*自動3",
+                "pos": "名.自動3",
                 "meaning": "比赛，竞技",
                 "examples": [
                         {
@@ -2005,7 +2005,7 @@
                 "level": "N3",
                 "expression": "教材",
                 "kana": "きょうざい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名",
                 "meaning": "教材",
                 "examples": [
@@ -2051,9 +2051,9 @@
                 "level": "N3",
                 "expression": "行事",
                 "kana": "ぎょうじ",
-                "tone": "①⓪",
+                "tone": "①0",
                 "pos": "名",
-                "meaning": "仪式；活动",
+                "meaning": "仪式;活动",
                 "examples": [
                         {
                                 "ja": "年中[ねんじゅう]行事[ぎょうじ]",
@@ -2074,9 +2074,9 @@
                 "level": "N3",
                 "expression": "教授",
                 "kana": "きょうじゅ",
-                "tone": "⓪①",
+                "tone": "0①",
                 "pos": "名*他動3",
-                "meaning": "教，讲授；（大学中的）教授",
+                "meaning": "教，讲授;(大学中的）教授",
                 "examples": [
                         {
                                 "ja": "大学[だいがく]の教授[きょうじゅ]になる。",
@@ -2097,9 +2097,9 @@
                 "level": "N3",
                 "expression": "恐縮",
                 "kana": "きょうしゅく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
-                "meaning": "（表示客气或谢意）对不起，过意不去",
+                "meaning": "(表示客气或谢意）对不起，过意不去",
                 "examples": [
                         {
                                 "ja": "お見舞[みま]いいただき恐縮[きょうしゅく]しております。",
@@ -2120,9 +2120,9 @@
                 "level": "N3",
                 "expression": "強調",
                 "kana": "きょうちょう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*他動3",
-                "meaning": "强调",
+                "meaning": "强凋",
                 "examples": [
                         {
                                 "ja": "学問[がくもん]の重要[じゅうよう]性[せい]を強調[きょうちょう]する。",
@@ -2143,7 +2143,7 @@
                 "level": "N3",
                 "expression": "共通",
                 "kana": "きょうつう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*ナ形*自動3",
                 "meaning": "共同",
                 "examples": [
@@ -2166,7 +2166,7 @@
                 "level": "N3",
                 "expression": "共同",
                 "kana": "きょうどう",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
                 "meaning": "共同",
                 "examples": [
@@ -2189,9 +2189,9 @@
                 "level": "N3",
                 "expression": "協力",
                 "kana": "きょうりょく",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
-                "meaning": "协力，共同努力；合作",
+                "meaning": "协力，共同努力;合作",
                 "examples": [
                         {
                                 "ja": "協力[きょうりょく]を求[もと]める。",
@@ -2212,7 +2212,7 @@
                 "level": "N3",
                 "expression": "行列",
                 "kana": "ぎょうれつ",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "名*自動3",
                 "meaning": "行列，队伍",
                 "examples": [
@@ -2236,7 +2236,7 @@
                 "expression": "許可",
                 "kana": "きょか",
                 "tone": "①",
-                "pos": "名*他動3",
+                "pos": "名.他動3",
                 "meaning": "许可，允许",
                 "examples": [
                         {
@@ -2281,7 +2281,7 @@
                 "level": "N3",
                 "expression": "巨大",
                 "kana": "きょだい",
-                "tone": "⓪",
+                "tone": "0",
                 "pos": "ナ形",
                 "meaning": "巨大",
                 "examples": [

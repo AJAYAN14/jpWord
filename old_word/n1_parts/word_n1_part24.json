@@ -283,8 +283,8 @@
   },
   {
     "id": 2321,
-    "expression": "ストロボ",
-    "kana": "ストロボ〖strobe〗",
+    "expression": "strobe",
+    "kana": "ストロボ",
     "tone": "[0]",
     "pos": "名",
     "meaning": "闪光灯",
@@ -351,8 +351,8 @@
   },
   {
     "id": 2325,
-    "expression": "ずぶぬれ",
-    "kana": "ずぶぬれ【ずぶ×濡れ】",
+    "expression": "ずぶ濡れ",
+    "kana": "ずぶぬれ",
     "tone": "[0]",
     "pos": "名",
     "meaning": "全身湿透",

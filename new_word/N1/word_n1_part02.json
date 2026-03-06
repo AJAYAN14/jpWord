@@ -2,10 +2,10 @@
         {
                 "id": "N1_0101",
                 "level": "N1",
-                "expression": "ウイークデー",
+                "expression": "weekday",
                 "kana": "ウイークデー",
-                "tone": "④",
-                "pos": "名詞",
+                "tone": "④②",
+                "pos": "名",
                 "meaning": "工作日，平日",
                 "examples": [
                         {
@@ -25,10 +25,10 @@
         {
                 "id": "N1_0102",
                 "level": "N1",
-                "expression": "ウイット",
+                "expression": "wit",
                 "kana": "ウイット",
                 "tone": "②",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "机智；妙语",
                 "examples": [
                         {
@@ -48,10 +48,10 @@
         {
                 "id": "N1_0103",
                 "level": "N1",
-                "expression": "ウイルス",
+                "expression": "virus",
                 "kana": "ウイルス",
-                "tone": "②",
-                "pos": "名詞",
+                "tone": "②①",
+                "pos": "名",
                 "meaning": "病毒",
                 "examples": [
                         {
@@ -73,8 +73,8 @@
                 "level": "N1",
                 "expression": "受け入れる",
                 "kana": "うけいれる",
-                "tone": "④",
-                "pos": "他動詞",
+                "tone": "④[0]",
+                "pos": "他動2",
                 "meaning": "接纳，接受",
                 "examples": [
                         {
@@ -96,8 +96,8 @@
                 "level": "N1",
                 "expression": "疑わしい",
                 "kana": "うたがわしい",
-                "tone": "⑤",
-                "pos": "イ形容詞",
+                "tone": "⑤[0]",
+                "pos": "イ形",
                 "meaning": "可疑",
                 "examples": [
                         {
@@ -119,9 +119,9 @@
                 "level": "N1",
                 "expression": "打ち上げ",
                 "kana": "うちあげ",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "放（烟花等）；结束，终了；庆功宴",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "放(烟花等);结束，终了;庆功宴",
                 "examples": [
                         {
                                 "ja": "プロジェクトの打[う]ち上[あ]げ会[かい]",
@@ -142,8 +142,8 @@
                 "level": "N1",
                 "expression": "打ち明ける",
                 "kana": "うちあける",
-                "tone": "⓪",
-                "pos": "他動詞",
+                "tone": "[0]④",
+                "pos": "他動2",
                 "meaning": "如实说出",
                 "examples": [
                         {
@@ -165,8 +165,8 @@
                 "level": "N1",
                 "expression": "うつ伏せ",
                 "kana": "うつぶせ",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "脸朝下或东西倒扣",
                 "examples": [
                         {
@@ -188,8 +188,8 @@
                 "level": "N1",
                 "expression": "腕前",
                 "kana": "うでまえ",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]③",
+                "pos": "名",
                 "meaning": "本亊，才能",
                 "examples": [
                         {
@@ -211,8 +211,8 @@
                 "level": "N1",
                 "expression": "生まれつき",
                 "kana": "うまれつき",
-                "tone": "⓪",
-                "pos": "名詞・副詞",
+                "tone": "[0]",
+                "pos": "名*副",
                 "meaning": "天生",
                 "examples": [
                         {
@@ -235,7 +235,7 @@
                 "expression": "埋め込む",
                 "kana": "うめこむ",
                 "tone": "③",
-                "pos": "他動詞",
+                "pos": "他動1",
                 "meaning": "埋入，埋进",
                 "examples": [
                         {
@@ -258,7 +258,7 @@
                 "expression": "埋め立てる",
                 "kana": "うめたてる",
                 "tone": "④",
-                "pos": "他動詞",
+                "pos": "他動2",
                 "meaning": "填河、湖、海等造地",
                 "examples": [
                         {
@@ -281,8 +281,8 @@
                 "expression": "紆余曲折",
                 "kana": "うよきょくせつ",
                 "tone": "①",
-                "pos": "名詞・自動詞",
-                "meaning": "曲折；周折",
+                "pos": "名*自動3",
+                "meaning": "曲折;周折",
                 "examples": [
                         {
                                 "ja": "紆[う]余[よ]曲[きょく]折[せつ]を経[へ]て…。",
@@ -303,9 +303,9 @@
                 "level": "N1",
                 "expression": "上書き",
                 "kana": "うわがき",
-                "tone": "⓪",
-                "pos": "名詞・自他動詞",
-                "meaning": "写在上面；覆盖（电脑用语）",
+                "tone": "[0]",
+                "pos": "名*自他動3",
+                "meaning": "写在上面;覆盖（电脑用语）",
                 "examples": [
                         {
                                 "ja": "上[うわ]書[が]き保[ほ]存[ぞん]",
@@ -326,8 +326,8 @@
                 "level": "N1",
                 "expression": "運営",
                 "kana": "うんえい",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "运营，运作",
                 "examples": [
                         {
@@ -349,9 +349,9 @@
                 "level": "N1",
                 "expression": "運送",
                 "kana": "うんそう",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
-                "meaning": "运送，运输",
+                "tone": "[0]",
+                "pos": "名*他動3",
+                "meaning": "运送,运输",
                 "examples": [
                         {
                                 "ja": "運[うん]送[そう]業[ぎょう]者[しゃ]",
@@ -373,7 +373,7 @@
                 "expression": "運賃",
                 "kana": "うんちん",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "运费",
                 "examples": [
                         {
@@ -395,9 +395,9 @@
                 "level": "N1",
                 "expression": "云々",
                 "kana": "うんぬん",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
-                "meaning": "（这样那样地）评论，说长道短",
+                "tone": "[0]",
+                "pos": "名*他動3",
+                "meaning": "(这样那样地)评论，说长道短",
                 "examples": [
                         {
                                 "ja": "今[いま]更[さら]結[けっ]果[か]を云々[うんぬん]してもどうにもならない。",
@@ -418,8 +418,8 @@
                 "level": "N1",
                 "expression": "運搬",
                 "kana": "うんぱん",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "搬运，运输",
                 "examples": [
                         {
@@ -441,8 +441,8 @@
                 "level": "N1",
                 "expression": "英字",
                 "kana": "えいじ",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "英语文字",
                 "examples": [
                         {
@@ -464,8 +464,8 @@
                 "level": "N1",
                 "expression": "英雄",
                 "kana": "えいゆう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "英雄",
                 "examples": [
                         {
@@ -485,10 +485,10 @@
         {
                 "id": "N1_0122",
                 "level": "N1",
-                "expression": "エキストラ",
+                "expression": "extra",
                 "kana": "エキストラ",
-                "tone": "③",
-                "pos": "名詞",
+                "tone": "③②",
+                "pos": "名",
                 "meaning": "群众演员；临时增刊",
                 "examples": [
                         {
@@ -508,10 +508,10 @@
         {
                 "id": "N1_0123",
                 "level": "N1",
-                "expression": "エキゾチック",
+                "expression": "exotic",
                 "kana": "エキゾチック",
                 "tone": "④",
-                "pos": "ナ形容詞",
+                "pos": "ナ形",
                 "meaning": "异国情调的",
                 "examples": [
                         {
@@ -534,7 +534,7 @@
                 "expression": "SF小説",
                 "kana": "エスエフしょうせつ",
                 "tone": "⑤",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "科幻小说",
                 "examples": [
                         {
@@ -554,10 +554,10 @@
         {
                 "id": "N1_0125",
                 "level": "N1",
-                "expression": "エスカレート",
-                "kana": "エスカレート",
+                "expression": "escalate",
+                "kana": "エスカレー卜",
                 "tone": "④",
-                "pos": "名詞・自動詞",
+                "pos": "名*自動3",
                 "meaning": "逐步升级",
                 "examples": [
                         {
@@ -577,10 +577,10 @@
         {
                 "id": "N1_0126",
                 "level": "N1",
-                "expression": "エッセー",
+                "expression": "essay",
                 "kana": "エッセー",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "随笔",
                 "examples": [
                         {
@@ -602,8 +602,8 @@
                 "level": "N1",
                 "expression": "閲覧",
                 "kana": "えつらん",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "阅览",
                 "examples": [
                         {
@@ -625,8 +625,8 @@
                 "level": "N1",
                 "expression": "得手",
                 "kana": "えて",
-                "tone": "①",
-                "pos": "名詞・ナ形容詞",
+                "tone": "②",
+                "pos": "名*ナ形",
                 "meaning": "擅长",
                 "examples": [
                         {
@@ -646,10 +646,10 @@
         {
                 "id": "N1_0129",
                 "level": "N1",
-                "expression": "エピソード",
+                "expression": "episode",
                 "kana": "エピソード",
-                "tone": "①",
-                "pos": "名詞",
+                "tone": "①③",
+                "pos": "名",
                 "meaning": "插曲，轶事",
                 "examples": [
                         {
@@ -669,10 +669,10 @@
         {
                 "id": "N1_0130",
                 "level": "N1",
-                "expression": "エレガント",
+                "expression": "elegant",
                 "kana": "エレガント",
                 "tone": "①",
-                "pos": "ナ形容詞",
+                "pos": "ナ形",
                 "meaning": "高雅，优雅",
                 "examples": [
                         {
@@ -695,8 +695,8 @@
                 "expression": "縁",
                 "kana": "えん",
                 "tone": "①",
-                "pos": "名詞",
-                "meaning": "缘分，关系。",
+                "pos": "名",
+                "meaning": "缘分，关系.",
                 "examples": [
                         {
                                 "ja": "縁[えん]が切[き]れる。",
@@ -717,9 +717,9 @@
                 "level": "N1",
                 "expression": "円滑",
                 "kana": "えんかつ",
-                "tone": "⓪",
-                "pos": "名詞・ナ形容詞",
-                "meaning": "圆滑，顺利",
+                "tone": "[0]",
+                "pos": "名*ナ形",
+                "meaning": "圆滑,顺利",
                 "examples": [
                         {
                                 "ja": "仕[し]事[ごと]が円[えん]滑[かつ]に進[すす]む。",
@@ -740,8 +740,8 @@
                 "level": "N1",
                 "expression": "縁起",
                 "kana": "えんぎ",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "兆头",
                 "examples": [
                         {
@@ -763,8 +763,8 @@
                 "level": "N1",
                 "expression": "縁起物",
                 "kana": "えんぎもの",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "吉祥物",
                 "examples": [
                         {
@@ -784,10 +784,10 @@
         {
                 "id": "N1_0135",
                 "level": "N1",
-                "expression": "エンジニア",
+                "expression": "engineer",
                 "kana": "エンジニア",
                 "tone": "③",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "工程师",
                 "examples": [
                         {
@@ -809,9 +809,9 @@
                 "level": "N1",
                 "expression": "演出",
                 "kana": "えんしゅつ",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
-                "meaning": "导演；组织，安排",
+                "tone": "[0]",
+                "pos": "名*他動3",
+                "meaning": "导演;组织,安排",
                 "examples": [
                         {
                                 "ja": "黒[くろ]沢[さわ]さんが演[えん]出[しゅつ]した映[えい]画[が]",
@@ -832,8 +832,8 @@
                 "level": "N1",
                 "expression": "炎症",
                 "kana": "えんしょう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "炎症",
                 "examples": [
                         {
@@ -855,8 +855,8 @@
                 "level": "N1",
                 "expression": "円高",
                 "kana": "えんだか",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "日元升值",
                 "examples": [
                         {
@@ -878,8 +878,8 @@
                 "level": "N1",
                 "expression": "演壇",
                 "kana": "えんだん",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "（演）讲台",
                 "examples": [
                         {
@@ -901,8 +901,8 @@
                 "level": "N1",
                 "expression": "遠方",
                 "kana": "えんぽう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "远方",
                 "examples": [
                         {
@@ -924,8 +924,8 @@
                 "level": "N1",
                 "expression": "円満",
                 "kana": "えんまん",
-                "tone": "⓪",
-                "pos": "名詞・ナ形容詞",
+                "tone": "[0]",
+                "pos": "名*ナ形",
                 "meaning": "美满；圆满",
                 "examples": [
                         {
@@ -947,8 +947,8 @@
                 "level": "N1",
                 "expression": "円安",
                 "kana": "えんやす",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "日元贬值",
                 "examples": [
                         {
@@ -971,7 +971,7 @@
                 "expression": "追い出す",
                 "kana": "おいだす",
                 "tone": "③",
-                "pos": "他動詞",
+                "pos": "他動1",
                 "meaning": "赶出，撵出",
                 "examples": [
                         {
@@ -993,9 +993,9 @@
                 "level": "N1",
                 "expression": "負う",
                 "kana": "おう",
-                "tone": "⓪",
-                "pos": "自他動詞",
-                "meaning": "承担；蒙受；仰赖",
+                "tone": "[0]",
+                "pos": "自他動1",
+                "meaning": "承担;蒙受;仰赖",
                 "examples": [
                         {
                                 "ja": "責[せき]任[にん]を負[お]う。",
@@ -1016,8 +1016,8 @@
                 "level": "N1",
                 "expression": "横行",
                 "kana": "おうこう",
-                "tone": "⓪",
-                "pos": "名詞・自動詞",
+                "tone": "[0]",
+                "pos": "名*自動3",
                 "meaning": "横行，风行",
                 "examples": [
                         {
@@ -1039,8 +1039,8 @@
                 "level": "N1",
                 "expression": "横領",
                 "kana": "おうりょう",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "侵吞，贪污",
                 "examples": [
                         {
@@ -1062,8 +1062,8 @@
                 "level": "N1",
                 "expression": "大げさ",
                 "kana": "おおげさ",
-                "tone": "⓪",
-                "pos": "ナ形容詞",
+                "tone": "[0]",
+                "pos": "ナ形",
                 "meaning": "夸张",
                 "examples": [
                         {
@@ -1085,8 +1085,8 @@
                 "level": "N1",
                 "expression": "大御所",
                 "kana": "おおごしょ",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "③[0]",
+                "pos": "名",
                 "meaning": "权威，泰斗",
                 "examples": [
                         {
@@ -1109,7 +1109,7 @@
                 "expression": "オーダーメイド",
                 "kana": "オーダーメイド",
                 "tone": "⑤",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "定做",
                 "examples": [
                         {
@@ -1131,9 +1131,9 @@
                 "level": "N1",
                 "expression": "大台",
                 "kana": "おおだい",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "（金额、数量的）大关",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "(金额、数量的）大关",
                 "examples": [
                         {
                                 "ja": "売[う]り上[あ]げは1億[おく]ドルの大[おお]台[だい]に乗[の]った。",
@@ -1155,7 +1155,7 @@
                 "expression": "大手",
                 "kana": "おおて",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "大公司，大企业",
                 "examples": [
                         {
@@ -1175,10 +1175,10 @@
         {
                 "id": "N1_0152",
                 "level": "N1",
-                "expression": "オートメーション",
+                "expression": "automation",
                 "kana": "オートメーション",
                 "tone": "④",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "自动化",
                 "examples": [
                         {
@@ -1198,10 +1198,10 @@
         {
                 "id": "N1_0153",
                 "level": "N1",
-                "expression": "オーナー",
+                "expression": "owner",
                 "kana": "オーナー",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "物主，业主",
                 "examples": [
                         {
@@ -1223,8 +1223,8 @@
                 "level": "N1",
                 "expression": "大幅",
                 "kana": "おおはば",
-                "tone": "⓪",
-                "pos": "名詞・ナ形容詞",
+                "tone": "[0]④",
+                "pos": "名*ナ形",
                 "meaning": "大幅度",
                 "examples": [
                         {
@@ -1244,11 +1244,11 @@
         {
                 "id": "N1_0155",
                 "level": "N1",
-                "expression": "オープン",
+                "expression": "open",
                 "kana": "オープン",
                 "tone": "①",
-                "pos": "名詞・ナ形容詞・自動詞",
-                "meaning": "开张；开放",
+                "pos": "名*ナ形*自動3",
+                "meaning": "开张;开放",
                 "examples": [
                         {
                                 "ja": "オープンな雰[ふん]囲[い]気[き]",
@@ -1269,8 +1269,8 @@
                 "level": "N1",
                 "expression": "大物",
                 "kana": "おおもの",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "大人物",
                 "examples": [
                         {
@@ -1292,9 +1292,9 @@
                 "level": "N1",
                 "expression": "お返し",
                 "kana": "おかえし",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "回礼；报复；找头",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "回礼;报复;找头",
                 "examples": [
                         {
                                 "ja": "これ、先[せん]日[じつ]おごってもらったお返[かえ]しだ。",
@@ -1315,8 +1315,8 @@
                 "level": "N1",
                 "expression": "女将さん",
                 "kana": "おかみさん",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "老板娘",
                 "examples": [
                         {
@@ -1339,8 +1339,8 @@
                 "expression": "臆病",
                 "kana": "おくびょう",
                 "tone": "③",
-                "pos": "名詞・ナ形容詞",
-                "meaning": "胆小，胆怯",
+                "pos": "名*ナ形",
+                "meaning": "胆小,胆怯",
                 "examples": [
                         {
                                 "ja": "臆[おく]病[びょう]者[もの]",
@@ -1361,8 +1361,8 @@
                 "level": "N1",
                 "expression": "遅らせる",
                 "kana": "おくらせる",
-                "tone": "③",
-                "pos": "他動詞",
+                "tone": "[0]",
+                "pos": "他動2",
                 "meaning": "延缓，推迟",
                 "examples": [
                         {
@@ -1384,8 +1384,8 @@
                 "level": "N1",
                 "expression": "送り状",
                 "kana": "おくりじょう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "发货单",
                 "examples": [
                         {
@@ -1408,7 +1408,7 @@
                 "expression": "納める",
                 "kana": "おさめる",
                 "tone": "③",
-                "pos": "他動詞",
+                "pos": "他動2",
                 "meaning": "缴纳；收，接受",
                 "examples": [
                         {
@@ -1431,7 +1431,7 @@
                 "expression": "押し付けがましい",
                 "kana": "おしつけがましい",
                 "tone": "⑦",
-                "pos": "イ形容詞",
+                "pos": "イ形",
                 "meaning": "强加于人",
                 "examples": [
                         {
@@ -1454,8 +1454,8 @@
                 "expression": "押し付ける",
                 "kana": "おしつける",
                 "tone": "④",
-                "pos": "他動詞",
-                "meaning": "推；强加于人",
+                "pos": "他動2",
+                "meaning": "推;强加于人",
                 "examples": [
                         {
                                 "ja": "自[じ]分[ぶん]の意[い]見[けん]を他[た]人[にん]に押[お]し付[つ]ける。",
@@ -1477,8 +1477,8 @@
                 "expression": "惜しむ",
                 "kana": "おしむ",
                 "tone": "②",
-                "pos": "他動詞",
-                "meaning": "珍惜；舍不得；惋惜",
+                "pos": "他動1",
+                "meaning": "珍惜；舍不得;惋惜",
                 "examples": [
                         {
                                 "ja": "努[ど]力[りょく]を惜[お]しまない。",
@@ -1499,9 +1499,9 @@
                 "level": "N1",
                 "expression": "遅番",
                 "kana": "おそばん",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "晚班，夜班",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "晚班,夜班",
                 "examples": [
                         {
                                 "ja": "今[こん]週[しゅう]は遅[おそ]番[ばん]だ。",
@@ -1522,8 +1522,8 @@
                 "level": "N1",
                 "expression": "煽てる",
                 "kana": "おだてる",
-                "tone": "⓪",
-                "pos": "他動詞",
+                "tone": "[0]",
+                "pos": "他動2",
                 "meaning": "煽动，怂恿；奉承",
                 "examples": [
                         {
@@ -1545,8 +1545,8 @@
                 "level": "N1",
                 "expression": "陥る",
                 "kana": "おちいる",
-                "tone": "③",
-                "pos": "自動詞",
+                "tone": "③[0]",
+                "pos": "自動1",
                 "meaning": "掉进，陷人",
                 "examples": [
                         {
@@ -1569,7 +1569,7 @@
                 "expression": "おどおど",
                 "kana": "おどおど",
                 "tone": "①",
-                "pos": "副詞・自動詞",
+                "pos": "副*自動3",
                 "meaning": "战战兢兢，提心吊胆",
                 "examples": [
                         {
@@ -1591,8 +1591,8 @@
                 "level": "N1",
                 "expression": "脅す",
                 "kana": "おどす",
-                "tone": "⓪",
-                "pos": "他動詞",
+                "tone": "[0]",
+                "pos": "他動1",
                 "meaning": "威胁，恐吓，吓唬",
                 "examples": [
                         {
@@ -1614,8 +1614,8 @@
                 "level": "N1",
                 "expression": "自ずから",
                 "kana": "おのずから",
-                "tone": "①",
-                "pos": "副詞",
+                "tone": "[0]②",
+                "pos": "副",
                 "meaning": "自然地，自动地",
                 "examples": [
                         {
@@ -1637,8 +1637,8 @@
                 "level": "N1",
                 "expression": "自ずと",
                 "kana": "おのずと",
-                "tone": "⓪",
-                "pos": "副詞",
+                "tone": "[0]",
+                "pos": "副",
                 "meaning": "自然而然地",
                 "examples": [
                         {
@@ -1661,7 +1661,7 @@
                 "expression": "脅かす",
                 "kana": "おびやかす",
                 "tone": "④",
-                "pos": "他動詞",
+                "pos": "他動1",
                 "meaning": "威胁",
                 "examples": [
                         {
@@ -1681,10 +1681,10 @@
         {
                 "id": "N1_0174",
                 "level": "N1",
-                "expression": "オファー",
+                "expression": "offer",
                 "kana": "オファー",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "提供；报价；录用通知",
                 "examples": [
                         {
@@ -1704,10 +1704,10 @@
         {
                 "id": "N1_0175",
                 "level": "N1",
-                "expression": "オプション",
+                "expression": "option",
                 "kana": "オプション",
                 "tone": "①",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "选择，选择权",
                 "examples": [
                         {
@@ -1729,9 +1729,9 @@
                 "level": "N1",
                 "expression": "覚え",
                 "kana": "おぼえ",
-                "tone": "③",
-                "pos": "名詞",
-                "meaning": "记忆；理解；信心",
+                "tone": "③②",
+                "pos": "名",
+                "meaning": "记忆；理解;信心",
                 "examples": [
                         {
                                 "ja": "そんなこと言[い]った覚[おぼ]えがない。",
@@ -1752,9 +1752,9 @@
                 "level": "N1",
                 "expression": "おまけに",
                 "kana": "おまけに",
-                "tone": "⓪",
-                "pos": "接続詞",
-                "meaning": "加之，而且",
+                "tone": "[0]",
+                "pos": "接",
+                "meaning": "加之,而且",
                 "examples": [
                         {
                                 "ja": "ごちそうになった上[うえ]、おまけにお土[み]産[やげ]までいただいて恐[きょう]縮[しゅuk]です。",
@@ -1775,8 +1775,8 @@
                 "level": "N1",
                 "expression": "思う存分",
                 "kana": "おもうぞんぶん",
-                "tone": "④",
-                "pos": "副詞",
+                "tone": "②",
+                "pos": "副",
                 "meaning": "尽情地",
                 "examples": [
                         {
@@ -1798,9 +1798,9 @@
                 "level": "N1",
                 "expression": "面影",
                 "kana": "おもかげ",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "相貌；风貌",
+                "tone": "[0]②③",
+                "pos": "名",
+                "meaning": "相貌;风貌",
                 "examples": [
                         {
                                 "ja": "彼[かれ]には父[ちち]親[おや]の面[おも]影[かげ]がある。",
@@ -1822,8 +1822,8 @@
                 "expression": "赴く",
                 "kana": "おもむく",
                 "tone": "③",
-                "pos": "自動詞",
-                "meaning": "前往；趋于",
+                "pos": "自動1",
+                "meaning": "前往;趋于",
                 "examples": [
                         {
                                 "ja": "現[げん]地[ち]に赴[おもむ]く。",
@@ -1845,7 +1845,7 @@
                 "expression": "思わしい",
                 "kana": "おもわしい",
                 "tone": "④",
-                "pos": "イ形容詞",
+                "pos": "イ形",
                 "meaning": "令人满意，称心",
                 "examples": [
                         {
@@ -1867,8 +1867,8 @@
                 "level": "N1",
                 "expression": "親方",
                 "kana": "おやかた",
-                "tone": "③",
-                "pos": "名詞",
+                "tone": "③④",
+                "pos": "名",
                 "meaning": "老板，工头",
                 "examples": [
                         {
@@ -1891,7 +1891,7 @@
                 "expression": "親兄弟",
                 "kana": "おやきょうだい",
                 "tone": "③",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "父母和兄弟姐妹",
                 "examples": [
                         {
@@ -1914,7 +1914,7 @@
                 "expression": "親孝行",
                 "kana": "おやこうこう",
                 "tone": "③",
-                "pos": "名詞・ナ形容詞・自動詞",
+                "pos": "名*ナ形*自動3",
                 "meaning": "孝顺父母",
                 "examples": [
                         {
@@ -1936,9 +1936,9 @@
                 "level": "N1",
                 "expression": "及ぶ",
                 "kana": "およぶ",
-                "tone": "⓪",
-                "pos": "自動詞",
-                "meaning": "达到；波及；匹敌",
+                "tone": "[0]",
+                "pos": "自動1",
+                "meaning": "达到;波及;匹敌",
                 "examples": [
                         {
                                 "ja": "影[えい]響[きょう]が全[ぜん]国[こく]に及[およ]ぶ。",
@@ -1957,10 +1957,10 @@
         {
                 "id": "N1_0186",
                 "level": "N1",
-                "expression": "オリエンテーション",
+                "expression": "orientation",
                 "kana": "オリエンテーション",
                 "tone": "⑤",
-                "pos": "名詞",
+                "pos": "名",
                 "meaning": "新员工培训，入学说明会",
                 "examples": [
                         {
@@ -1982,9 +1982,9 @@
                 "level": "N1",
                 "expression": "折り返す",
                 "kana": "おりかえす",
-                "tone": "③",
-                "pos": "自他動詞",
-                "meaning": "翻折；折回",
+                "tone": "③[0]",
+                "pos": "自他動1",
+                "meaning": "翻折;折回",
                 "examples": [
                         {
                                 "ja": "体[たい]育[いく]館[かん]の前[まえ]で折[お]り返[かえ]す。",
@@ -2006,7 +2006,7 @@
                 "expression": "愚か",
                 "kana": "おろか",
                 "tone": "①",
-                "pos": "ナ形容詞",
+                "pos": "ナ形",
                 "meaning": "愚蠢",
                 "examples": [
                         {
@@ -2029,8 +2029,8 @@
                 "expression": "外貨",
                 "kana": "がいか",
                 "tone": "①",
-                "pos": "名詞",
-                "meaning": "外币，外汇；进ロ货",
+                "pos": "名",
+                "meaning": "外币，外汇;进ロ货",
                 "examples": [
                         {
                                 "ja": "外[がい]貨[か]をチェンジする。",
@@ -2049,10 +2049,10 @@
         {
                 "id": "N1_0190",
                 "level": "N1",
-                "expression": "オンライン",
+                "expression": "online",
                 "kana": "オンライン",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "③",
+                "pos": "名",
                 "meaning": "在线",
                 "examples": [
                         {
@@ -2074,9 +2074,9 @@
                 "level": "N1",
                 "expression": "温和",
                 "kana": "おんわ",
-                "tone": "⓪",
-                "pos": "名詞・ナ形容詞",
-                "meaning": "气候温暖稳定；稳重",
+                "tone": "[0]",
+                "pos": "名*ナ形",
+                "meaning": "气候温暖稳定;稳重",
                 "examples": [
                         {
                                 "ja": "温[おん]和[わ]な気[き]候[こう]",
@@ -2098,7 +2098,7 @@
                 "expression": "～画",
                 "kana": "～が",
                 "tone": "",
-                "pos": "接尾辞",
+                "pos": "接尾",
                 "meaning": "画",
                 "examples": [
                         {
@@ -2118,10 +2118,10 @@
         {
                 "id": "N1_0193",
                 "level": "N1",
-                "expression": "カーソル",
+                "expression": "cursor",
                 "kana": "カーソル",
-                "tone": "①",
-                "pos": "名詞",
+                "tone": "①[0]",
+                "pos": "名",
                 "meaning": "光标",
                 "examples": [
                         {
@@ -2141,10 +2141,10 @@
         {
                 "id": "N1_0194",
                 "level": "N1",
-                "expression": "カーペット",
+                "expression": "carpet",
                 "kana": "カーペット",
-                "tone": "①",
-                "pos": "名詞",
+                "tone": "①③",
+                "pos": "名",
                 "meaning": "地毯，毛毯",
                 "examples": [
                         {
@@ -2166,8 +2166,8 @@
                 "level": "N1",
                 "expression": "改悪",
                 "kana": "かいあく",
-                "tone": "⓪",
-                "pos": "名詞・他動詞",
+                "tone": "[0]",
+                "pos": "名*他動3",
                 "meaning": "越改越坏",
                 "examples": [
                         {
@@ -2189,8 +2189,8 @@
                 "level": "N1",
                 "expression": "外観",
                 "kana": "がいかん",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "外观，外表",
                 "examples": [
                         {
@@ -2212,8 +2212,8 @@
                 "level": "N1",
                 "expression": "階級",
                 "kana": "かいきゅう",
-                "tone": "⓪",
-                "pos": "名詞",
+                "tone": "[0]",
+                "pos": "名",
                 "meaning": "阶级",
                 "examples": [
                         {
@@ -2235,9 +2235,9 @@
                 "level": "N1",
                 "expression": "会計",
                 "kana": "かいけい",
-                "tone": "⓪",
-                "pos": "名詞",
-                "meaning": "结账，付款；会计",
+                "tone": "[0]",
+                "pos": "名",
+                "meaning": "结账，付款;会计",
                 "examples": [
                         {
                                 "ja": "お会[かい]計[けい]をお願[ねが]いします。",
@@ -2258,8 +2258,8 @@
                 "level": "N1",
                 "expression": "会見",
                 "kana": "かいけん",
-                "tone": "⓪",
-                "pos": "名詞・自動詞",
+                "tone": "[0]",
+                "pos": "名*自動3",
                 "meaning": "会见",
                 "examples": [
                         {
@@ -2282,7 +2282,7 @@
                 "expression": "介護",
                 "kana": "かいご",
                 "tone": "①",
-                "pos": "名詞・他動詞",
+                "pos": "名*他動3",
                 "meaning": "护理",
                 "examples": [
                         {

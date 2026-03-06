@@ -52,8 +52,8 @@
   },
   {
     "id": 1105,
-    "expression": "ノイローゼ",
-    "kana": "ノイローゼ（ドイツNeurose）",
+    "expression": "Neurose",
+    "kana": "ノイローゼ",
     "tone": "③",
     "pos": "名",
     "meaning": "神经衰弱",
@@ -238,8 +238,8 @@
   },
   {
     "id": 1118,
-    "expression": "ハイビジョン",
-    "kana": "ハイビジョン〔high-definition television〕",
+    "expression": "HDTV",
+    "kana": "ハイビジョン",
     "tone": "③",
     "pos": "名",
     "meaning": "高淸电视",
@@ -796,8 +796,8 @@
   },
   {
     "id": 1156,
-    "expression": "パンク",
-    "kana": "パンク（puncture）",
+    "expression": "puncture",
+    "kana": "パンク",
     "tone": "[0]",
     "pos": "名*自動3",
     "meaning": "爆胎;性能失灵;破产",

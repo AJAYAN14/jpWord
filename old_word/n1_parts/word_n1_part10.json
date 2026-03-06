@@ -901,8 +901,8 @@
   },
   {
     "id": 963,
-    "expression": "デッサン",
-    "kana": "デッサン〖フランスdessin〗",
+    "expression": "dessin",
+    "kana": "デッサン",
     "tone": "①",
     "pos": "名",
     "meaning": "素描，草图",
@@ -929,7 +929,7 @@
   {
     "id": 965,
     "expression": "手っ取り早い",
-    "kana": "てっとりばや↓い",
+    "kana": "てっとりばやい",
     "tone": "⑥",
     "pos": "イ形",
     "meaning": "迅速，简单",
